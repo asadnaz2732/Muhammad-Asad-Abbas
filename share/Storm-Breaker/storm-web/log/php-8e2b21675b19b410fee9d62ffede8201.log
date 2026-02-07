@@ -1,0 +1,1693 @@
+[Sat Feb  7 09:56:58 2026] PHP 8.5.1 Development Server (http://localhost:2525) started
+[Sat Feb  7 11:08:07 2026] 127.0.0.1:55326 Accepted
+[Sat Feb  7 11:08:07 2026] 127.0.0.1:55326 [302]: GET /
+[Sat Feb  7 11:08:07 2026] 127.0.0.1:55326 Closing
+[Sat Feb  7 11:08:08 2026] 127.0.0.1:55342 Accepted
+[Sat Feb  7 11:08:08 2026] 127.0.0.1:55342 [200]: GET /login.php
+[Sat Feb  7 11:08:08 2026] 127.0.0.1:55342 Closing
+[Sat Feb  7 11:08:09 2026] 127.0.0.1:55358 Accepted
+[Sat Feb  7 11:08:09 2026] 127.0.0.1:55358 [200]: GET /assets/css/bootstrap.min.css
+[Sat Feb  7 11:08:09 2026] 127.0.0.1:55358 Closing
+[Sat Feb  7 11:08:09 2026] 127.0.0.1:55372 Accepted
+[Sat Feb  7 11:08:09 2026] 127.0.0.1:55372 [200]: GET /assets/css/style.css
+[Sat Feb  7 11:08:09 2026] 127.0.0.1:55372 Closing
+[Sat Feb  7 11:08:11 2026] 127.0.0.1:49278 Accepted
+[Sat Feb  7 11:08:11 2026] 127.0.0.1:49278 [302]: GET /favicon.ico
+[Sat Feb  7 11:08:11 2026] 127.0.0.1:49278 Closing
+[Sat Feb  7 11:08:12 2026] 127.0.0.1:49288 Accepted
+[Sat Feb  7 11:08:12 2026] 127.0.0.1:49288 [200]: GET /login.php
+[Sat Feb  7 11:08:12 2026] 127.0.0.1:49288 Closing
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48082 Accepted
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48082 [200]: POST /login.php
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48082 Closing
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48096 Accepted
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48096 [200]: GET /assets/css/bootstrap.min.css
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48096 Closing
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48106 Accepted
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48106 [200]: GET /assets/css/style.css
+[Sat Feb  7 11:11:03 2026] 127.0.0.1:48106 Closing
+[Sat Feb  7 11:11:08 2026] 127.0.0.1:48116 Accepted
+[Sat Feb  7 11:11:08 2026] 127.0.0.1:48116 [200]: GET /panel.php
+[Sat Feb  7 11:11:08 2026] 127.0.0.1:48116 Closing
+[Sat Feb  7 11:11:09 2026] 127.0.0.1:48120 Accepted
+[Sat Feb  7 11:11:09 2026] 127.0.0.1:48120 [200]: GET /assets/css/bootstrap.min.css
+[Sat Feb  7 11:11:09 2026] 127.0.0.1:48120 Closing
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:48134 Accepted
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:48134 [200]: GET /assets/js/growl-notification.min.js
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:48134 Closing
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56130 Accepted
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56130 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56130 Closing
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56138 Accepted
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56132 Accepted
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56138 [200]: GET /assets/js/script.js
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56132 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56154 Accepted
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56138 Closing
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56132 Closing
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56154 [200]: GET /assets/css/light-theme.min.css
+[Sat Feb  7 11:11:10 2026] 127.0.0.1:56154 Closing
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56170 Accepted
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56170 [302]: GET /favicon.ico
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56170 Closing
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56172 Accepted
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56172 [200]: POST /list_templates.php
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56172 Closing
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56180 Accepted
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56180 [200]: GET /Settings.json
+[Sat Feb  7 11:11:17 2026] 127.0.0.1:56180 Closing
+[Sat Feb  7 11:11:18 2026] 127.0.0.1:56182 Accepted
+[Sat Feb  7 11:11:18 2026] 127.0.0.1:56182 [200]: GET /panel.php
+[Sat Feb  7 11:11:18 2026] 127.0.0.1:56182 Closing
+[Sat Feb  7 11:11:20 2026] 127.0.0.1:44122 Accepted
+[Sat Feb  7 11:11:20 2026] 127.0.0.1:44122 [200]: POST /receiver.php
+[Sat Feb  7 11:11:20 2026] 127.0.0.1:44122 Closing
+[Sat Feb  7 11:11:22 2026] 127.0.0.1:44136 Accepted
+[Sat Feb  7 11:11:22 2026] 127.0.0.1:44136 [200]: POST /receiver.php
+[Sat Feb  7 11:11:22 2026] 127.0.0.1:44136 Closing
+[Sat Feb  7 11:11:25 2026] 127.0.0.1:44150 Accepted
+[Sat Feb  7 11:11:25 2026] 127.0.0.1:44150 [200]: POST /receiver.php
+[Sat Feb  7 11:11:25 2026] 127.0.0.1:44150 Closing
+[Sat Feb  7 11:11:27 2026] 127.0.0.1:44162 Accepted
+[Sat Feb  7 11:11:27 2026] 127.0.0.1:44162 [200]: POST /receiver.php
+[Sat Feb  7 11:11:27 2026] 127.0.0.1:44162 Closing
+[Sat Feb  7 11:11:28 2026] 127.0.0.1:44174 Accepted
+[Sat Feb  7 11:11:28 2026] 127.0.0.1:44174 [200]: POST /receiver.php
+[Sat Feb  7 11:11:28 2026] 127.0.0.1:44174 Closing
+[Sat Feb  7 11:11:30 2026] 127.0.0.1:35510 Accepted
+[Sat Feb  7 11:11:30 2026] 127.0.0.1:35510 [200]: POST /receiver.php
+[Sat Feb  7 11:11:30 2026] 127.0.0.1:35510 Closing
+[Sat Feb  7 11:11:34 2026] 127.0.0.1:35522 Accepted
+[Sat Feb  7 11:11:34 2026] 127.0.0.1:35522 [200]: POST /receiver.php
+[Sat Feb  7 11:11:34 2026] 127.0.0.1:35522 Closing
+[Sat Feb  7 11:11:35 2026] 127.0.0.1:35532 Accepted
+[Sat Feb  7 11:11:35 2026] 127.0.0.1:35532 [200]: POST /receiver.php
+[Sat Feb  7 11:11:35 2026] 127.0.0.1:35532 Closing
+[Sat Feb  7 11:11:36 2026] 127.0.0.1:35546 Accepted
+[Sat Feb  7 11:11:36 2026] 127.0.0.1:35546 [200]: POST /receiver.php
+[Sat Feb  7 11:11:36 2026] 127.0.0.1:35546 Closing
+[Sat Feb  7 11:11:38 2026] 127.0.0.1:35560 Accepted
+[Sat Feb  7 11:11:38 2026] 127.0.0.1:35560 [200]: POST /receiver.php
+[Sat Feb  7 11:11:38 2026] 127.0.0.1:35560 Closing
+[Sat Feb  7 11:11:40 2026] 127.0.0.1:37674 Accepted
+[Sat Feb  7 11:11:40 2026] 127.0.0.1:37674 [200]: POST /receiver.php
+[Sat Feb  7 11:11:40 2026] 127.0.0.1:37674 Closing
+[Sat Feb  7 11:11:42 2026] 127.0.0.1:37678 Accepted
+[Sat Feb  7 11:11:42 2026] 127.0.0.1:37678 [200]: POST /receiver.php
+[Sat Feb  7 11:11:42 2026] 127.0.0.1:37678 Closing
+[Sat Feb  7 11:11:44 2026] 127.0.0.1:37690 Accepted
+[Sat Feb  7 11:11:44 2026] 127.0.0.1:37690 [200]: POST /receiver.php
+[Sat Feb  7 11:11:44 2026] 127.0.0.1:37690 Closing
+[Sat Feb  7 11:11:46 2026] 127.0.0.1:37700 Accepted
+[Sat Feb  7 11:11:46 2026] 127.0.0.1:37700 [200]: POST /receiver.php
+[Sat Feb  7 11:11:46 2026] 127.0.0.1:37700 Closing
+[Sat Feb  7 11:11:49 2026] 127.0.0.1:37704 Accepted
+[Sat Feb  7 11:11:49 2026] 127.0.0.1:37704 [200]: POST /receiver.php
+[Sat Feb  7 11:11:49 2026] 127.0.0.1:37704 Closing
+[Sat Feb  7 11:11:51 2026] 127.0.0.1:54712 Accepted
+[Sat Feb  7 11:11:51 2026] 127.0.0.1:54712 [200]: POST /receiver.php
+[Sat Feb  7 11:11:51 2026] 127.0.0.1:54712 Closing
+[Sat Feb  7 11:11:52 2026] 127.0.0.1:54726 Accepted
+[Sat Feb  7 11:11:52 2026] 127.0.0.1:54726 [200]: POST /receiver.php
+[Sat Feb  7 11:11:52 2026] 127.0.0.1:54726 Closing
+[Sat Feb  7 11:11:54 2026] 127.0.0.1:54740 Accepted
+[Sat Feb  7 11:11:54 2026] 127.0.0.1:54740 [200]: POST /receiver.php
+[Sat Feb  7 11:11:54 2026] 127.0.0.1:54740 Closing
+[Sat Feb  7 11:11:56 2026] 127.0.0.1:54752 Accepted
+[Sat Feb  7 11:11:56 2026] 127.0.0.1:54752 [200]: POST /receiver.php
+[Sat Feb  7 11:11:56 2026] 127.0.0.1:54752 Closing
+[Sat Feb  7 11:11:58 2026] 127.0.0.1:54768 Accepted
+[Sat Feb  7 11:11:58 2026] 127.0.0.1:54768 [200]: POST /receiver.php
+[Sat Feb  7 11:11:58 2026] 127.0.0.1:54768 Closing
+[Sat Feb  7 11:12:17 2026] 127.0.0.1:38440 Accepted
+[Sat Feb  7 11:12:17 2026] 127.0.0.1:38440 [200]: GET /panel.php
+[Sat Feb  7 11:12:17 2026] 127.0.0.1:38440 Closing
+[Sat Feb  7 11:12:18 2026] 127.0.0.1:38444 Accepted
+[Sat Feb  7 11:12:18 2026] 127.0.0.1:38444 [302]: GET /favicon.ico
+[Sat Feb  7 11:12:18 2026] 127.0.0.1:38444 Closing
+[Sat Feb  7 11:12:18 2026] 127.0.0.1:38456 Accepted
+[Sat Feb  7 11:12:18 2026] 127.0.0.1:38456 [200]: POST /list_templates.php
+[Sat Feb  7 11:12:18 2026] 127.0.0.1:38456 Closing
+[Sat Feb  7 11:12:19 2026] 127.0.0.1:38462 Accepted
+[Sat Feb  7 11:12:19 2026] 127.0.0.1:38462 [200]: GET /panel.php
+[Sat Feb  7 11:12:19 2026] 127.0.0.1:38462 Closing
+[Sat Feb  7 11:12:21 2026] 127.0.0.1:58182 Accepted
+[Sat Feb  7 11:12:22 2026] 127.0.0.1:58182 [200]: POST /receiver.php
+[Sat Feb  7 11:12:22 2026] 127.0.0.1:58182 Closing
+[Sat Feb  7 11:12:23 2026] 127.0.0.1:58194 Accepted
+[Sat Feb  7 11:12:23 2026] 127.0.0.1:58194 [200]: POST /receiver.php
+[Sat Feb  7 11:12:23 2026] 127.0.0.1:58194 Closing
+[Sat Feb  7 11:12:25 2026] 127.0.0.1:58202 Accepted
+[Sat Feb  7 11:12:25 2026] 127.0.0.1:58202 [200]: POST /receiver.php
+[Sat Feb  7 11:12:25 2026] 127.0.0.1:58202 Closing
+[Sat Feb  7 11:12:27 2026] 127.0.0.1:58212 Accepted
+[Sat Feb  7 11:12:27 2026] 127.0.0.1:58212 [200]: POST /receiver.php
+[Sat Feb  7 11:12:27 2026] 127.0.0.1:58212 Closing
+[Sat Feb  7 11:12:29 2026] 127.0.0.1:58222 Accepted
+[Sat Feb  7 11:12:30 2026] 127.0.0.1:58222 [200]: POST /receiver.php
+[Sat Feb  7 11:12:30 2026] 127.0.0.1:58222 Closing
+[Sat Feb  7 11:12:31 2026] 127.0.0.1:49828 Accepted
+[Sat Feb  7 11:12:31 2026] 127.0.0.1:49828 [200]: POST /receiver.php
+[Sat Feb  7 11:12:31 2026] 127.0.0.1:49828 Closing
+[Sat Feb  7 11:12:33 2026] 127.0.0.1:49838 Accepted
+[Sat Feb  7 11:12:33 2026] 127.0.0.1:49838 [200]: POST /receiver.php
+[Sat Feb  7 11:12:33 2026] 127.0.0.1:49838 Closing
+[Sat Feb  7 11:12:35 2026] 127.0.0.1:49840 Accepted
+[Sat Feb  7 11:12:35 2026] 127.0.0.1:49840 [200]: POST /receiver.php
+[Sat Feb  7 11:12:35 2026] 127.0.0.1:49840 Closing
+[Sat Feb  7 11:12:37 2026] 127.0.0.1:49850 Accepted
+[Sat Feb  7 11:12:37 2026] 127.0.0.1:49850 [200]: POST /receiver.php
+[Sat Feb  7 11:12:37 2026] 127.0.0.1:49850 Closing
+[Sat Feb  7 11:12:40 2026] 127.0.0.1:49862 Accepted
+[Sat Feb  7 11:12:40 2026] 127.0.0.1:49862 [200]: POST /receiver.php
+[Sat Feb  7 11:12:40 2026] 127.0.0.1:49862 Closing
+[Sat Feb  7 11:12:41 2026] 127.0.0.1:60410 Accepted
+[Sat Feb  7 11:12:41 2026] 127.0.0.1:60410 [200]: POST /receiver.php
+[Sat Feb  7 11:12:41 2026] 127.0.0.1:60410 Closing
+[Sat Feb  7 11:12:43 2026] 127.0.0.1:60414 Accepted
+[Sat Feb  7 11:12:43 2026] 127.0.0.1:60414 [200]: POST /receiver.php
+[Sat Feb  7 11:12:43 2026] 127.0.0.1:60414 Closing
+[Sat Feb  7 11:12:45 2026] 127.0.0.1:60418 Accepted
+[Sat Feb  7 11:12:45 2026] 127.0.0.1:60418 [200]: POST /receiver.php
+[Sat Feb  7 11:12:45 2026] 127.0.0.1:60418 Closing
+[Sat Feb  7 11:12:47 2026] 127.0.0.1:60434 Accepted
+[Sat Feb  7 11:12:47 2026] 127.0.0.1:60434 [200]: POST /receiver.php
+[Sat Feb  7 11:12:47 2026] 127.0.0.1:60434 Closing
+[Sat Feb  7 11:12:50 2026] 127.0.0.1:33256 Accepted
+[Sat Feb  7 11:12:50 2026] 127.0.0.1:33256 [200]: POST /receiver.php
+[Sat Feb  7 11:12:50 2026] 127.0.0.1:33256 Closing
+[Sat Feb  7 11:12:51 2026] 127.0.0.1:33260 Accepted
+[Sat Feb  7 11:12:51 2026] 127.0.0.1:33260 [200]: POST /receiver.php
+[Sat Feb  7 11:12:51 2026] 127.0.0.1:33260 Closing
+[Sat Feb  7 11:12:53 2026] 127.0.0.1:33264 Accepted
+[Sat Feb  7 11:12:53 2026] 127.0.0.1:33264 [200]: POST /receiver.php
+[Sat Feb  7 11:12:53 2026] 127.0.0.1:33264 Closing
+[Sat Feb  7 11:12:55 2026] 127.0.0.1:33272 Accepted
+[Sat Feb  7 11:12:55 2026] 127.0.0.1:33272 [200]: POST /receiver.php
+[Sat Feb  7 11:12:55 2026] 127.0.0.1:33272 Closing
+[Sat Feb  7 11:12:58 2026] 127.0.0.1:33282 Accepted
+[Sat Feb  7 11:12:58 2026] 127.0.0.1:33282 [200]: POST /receiver.php
+[Sat Feb  7 11:12:58 2026] 127.0.0.1:33282 Closing
+[Sat Feb  7 11:12:59 2026] 127.0.0.1:33292 Accepted
+[Sat Feb  7 11:13:00 2026] 127.0.0.1:33292 [200]: POST /receiver.php
+[Sat Feb  7 11:13:00 2026] 127.0.0.1:33292 Closing
+[Sat Feb  7 11:13:01 2026] 127.0.0.1:40712 Accepted
+[Sat Feb  7 11:13:01 2026] 127.0.0.1:40712 [200]: POST /receiver.php
+[Sat Feb  7 11:13:01 2026] 127.0.0.1:40712 Closing
+[Sat Feb  7 11:13:03 2026] 127.0.0.1:40724 Accepted
+[Sat Feb  7 11:13:03 2026] 127.0.0.1:40724 [200]: POST /receiver.php
+[Sat Feb  7 11:13:03 2026] 127.0.0.1:40724 Closing
+[Sat Feb  7 11:13:06 2026] 127.0.0.1:40734 Accepted
+[Sat Feb  7 11:13:06 2026] 127.0.0.1:40734 [200]: POST /receiver.php
+[Sat Feb  7 11:13:06 2026] 127.0.0.1:40734 Closing
+[Sat Feb  7 11:13:07 2026] 127.0.0.1:40738 Accepted
+[Sat Feb  7 11:13:08 2026] 127.0.0.1:40738 [200]: POST /receiver.php
+[Sat Feb  7 11:13:08 2026] 127.0.0.1:40738 Closing
+[Sat Feb  7 11:13:09 2026] 127.0.0.1:40746 Accepted
+[Sat Feb  7 11:13:09 2026] 127.0.0.1:40746 [200]: POST /receiver.php
+[Sat Feb  7 11:13:09 2026] 127.0.0.1:40746 Closing
+[Sat Feb  7 11:13:11 2026] 127.0.0.1:51640 Accepted
+[Sat Feb  7 11:13:11 2026] 127.0.0.1:51640 [200]: POST /receiver.php
+[Sat Feb  7 11:13:11 2026] 127.0.0.1:51640 Closing
+[Sat Feb  7 11:13:13 2026] 127.0.0.1:51656 Accepted
+[Sat Feb  7 11:13:13 2026] 127.0.0.1:51656 [200]: POST /receiver.php
+[Sat Feb  7 11:13:13 2026] 127.0.0.1:51656 Closing
+[Sat Feb  7 11:13:15 2026] 127.0.0.1:51672 Accepted
+[Sat Feb  7 11:13:15 2026] 127.0.0.1:51672 [200]: POST /receiver.php
+[Sat Feb  7 11:13:15 2026] 127.0.0.1:51672 Closing
+[Sat Feb  7 11:13:17 2026] 127.0.0.1:51676 Accepted
+[Sat Feb  7 11:13:17 2026] 127.0.0.1:51676 [200]: POST /receiver.php
+[Sat Feb  7 11:13:17 2026] 127.0.0.1:51676 Closing
+[Sat Feb  7 11:13:19 2026] 127.0.0.1:51680 Accepted
+[Sat Feb  7 11:13:19 2026] 127.0.0.1:51680 [200]: POST /receiver.php
+[Sat Feb  7 11:13:19 2026] 127.0.0.1:51680 Closing
+[Sat Feb  7 11:13:21 2026] 127.0.0.1:40568 Accepted
+[Sat Feb  7 11:13:21 2026] 127.0.0.1:40568 [200]: POST /receiver.php
+[Sat Feb  7 11:13:21 2026] 127.0.0.1:40568 Closing
+[Sat Feb  7 11:13:23 2026] 127.0.0.1:40578 Accepted
+[Sat Feb  7 11:13:23 2026] 127.0.0.1:40578 [200]: POST /receiver.php
+[Sat Feb  7 11:13:23 2026] 127.0.0.1:40578 Closing
+[Sat Feb  7 11:13:25 2026] 127.0.0.1:40580 Accepted
+[Sat Feb  7 11:13:25 2026] 127.0.0.1:40580 [200]: POST /receiver.php
+[Sat Feb  7 11:13:25 2026] 127.0.0.1:40580 Closing
+[Sat Feb  7 11:13:27 2026] 127.0.0.1:40586 Accepted
+[Sat Feb  7 11:13:27 2026] 127.0.0.1:40586 [200]: POST /receiver.php
+[Sat Feb  7 11:13:27 2026] 127.0.0.1:40586 Closing
+[Sat Feb  7 11:13:27 2026] 127.0.0.1:40596 Accepted
+[Sat Feb  7 11:13:27 2026] 127.0.0.1:40596 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:13:27 2026] 127.0.0.1:40596 Closing
+[Sat Feb  7 11:13:29 2026] 127.0.0.1:40610 Accepted
+[Sat Feb  7 11:13:29 2026] 127.0.0.1:40610 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:13:29 2026] 127.0.0.1:40610 Closing
+[Sat Feb  7 11:13:29 2026] 127.0.0.1:40626 Accepted
+[Sat Feb  7 11:13:29 2026] 127.0.0.1:40626 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:13:29 2026] 127.0.0.1:40626 Closing
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40636 Accepted
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40634 Accepted
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40638 Accepted
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40634 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40652 Accepted
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40636 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40638 [200]: POST /receiver.php
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40638 Closing
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40652 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40634 Closing
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40636 Closing
+[Sat Feb  7 11:13:30 2026] 127.0.0.1:40652 Closing
+[Sat Feb  7 11:13:31 2026] 127.0.0.1:44516 Accepted
+[Sat Feb  7 11:13:31 2026] 127.0.0.1:44516 [200]: POST /receiver.php
+[Sat Feb  7 11:13:31 2026] 127.0.0.1:44516 Closing
+[Sat Feb  7 11:13:33 2026] 127.0.0.1:44518 Accepted
+[Sat Feb  7 11:13:33 2026] 127.0.0.1:44518 [200]: POST /receiver.php
+[Sat Feb  7 11:13:33 2026] 127.0.0.1:44518 Closing
+[Sat Feb  7 11:13:35 2026] 127.0.0.1:44520 Accepted
+[Sat Feb  7 11:13:35 2026] 127.0.0.1:44520 [200]: POST /receiver.php
+[Sat Feb  7 11:13:35 2026] 127.0.0.1:44520 Closing
+[Sat Feb  7 11:13:38 2026] 127.0.0.1:44524 Accepted
+[Sat Feb  7 11:13:38 2026] 127.0.0.1:44524 [200]: POST /receiver.php
+[Sat Feb  7 11:13:38 2026] 127.0.0.1:44524 Closing
+[Sat Feb  7 11:13:39 2026] 127.0.0.1:44538 Accepted
+[Sat Feb  7 11:13:39 2026] 127.0.0.1:44538 [200]: POST /receiver.php
+[Sat Feb  7 11:13:39 2026] 127.0.0.1:44538 Closing
+[Sat Feb  7 11:13:42 2026] 127.0.0.1:38322 Accepted
+[Sat Feb  7 11:13:42 2026] 127.0.0.1:38322 [200]: POST /receiver.php
+[Sat Feb  7 11:13:42 2026] 127.0.0.1:38322 Closing
+[Sat Feb  7 11:13:43 2026] 127.0.0.1:38338 Accepted
+[Sat Feb  7 11:13:43 2026] 127.0.0.1:38338 [200]: POST /receiver.php
+[Sat Feb  7 11:13:43 2026] 127.0.0.1:38338 Closing
+[Sat Feb  7 11:13:45 2026] 127.0.0.1:38354 Accepted
+[Sat Feb  7 11:13:45 2026] 127.0.0.1:38354 [200]: POST /receiver.php
+[Sat Feb  7 11:13:45 2026] 127.0.0.1:38354 Closing
+[Sat Feb  7 11:13:47 2026] 127.0.0.1:38366 Accepted
+[Sat Feb  7 11:13:47 2026] 127.0.0.1:38366 [200]: POST /receiver.php
+[Sat Feb  7 11:13:47 2026] 127.0.0.1:38366 Closing
+[Sat Feb  7 11:13:48 2026] 127.0.0.1:38382 Accepted
+[Sat Feb  7 11:13:48 2026] 127.0.0.1:38382 [302]: GET /favicon.ico
+[Sat Feb  7 11:13:48 2026] 127.0.0.1:38382 Closing
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38392 Accepted
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38392 [200]: POST /receiver.php
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38392 Closing
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38402 Accepted
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38402 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38402 Closing
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38408 Accepted
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38408 [200]: GET /login.php
+[Sat Feb  7 11:13:49 2026] 127.0.0.1:38408 Closing
+[Sat Feb  7 11:13:51 2026] 127.0.0.1:57508 Accepted
+[Sat Feb  7 11:13:51 2026] 127.0.0.1:57508 [200]: POST /receiver.php
+[Sat Feb  7 11:13:51 2026] 127.0.0.1:57508 Closing
+[Sat Feb  7 11:13:53 2026] 127.0.0.1:57512 Accepted
+[Sat Feb  7 11:13:53 2026] 127.0.0.1:57512 [200]: POST /receiver.php
+[Sat Feb  7 11:13:53 2026] 127.0.0.1:57512 Closing
+[Sat Feb  7 11:13:55 2026] 127.0.0.1:57522 Accepted
+[Sat Feb  7 11:13:55 2026] 127.0.0.1:57522 [200]: POST /receiver.php
+[Sat Feb  7 11:13:55 2026] 127.0.0.1:57522 Closing
+[Sat Feb  7 11:13:57 2026] 127.0.0.1:57532 Accepted
+[Sat Feb  7 11:13:58 2026] 127.0.0.1:57532 [200]: POST /receiver.php
+[Sat Feb  7 11:13:58 2026] 127.0.0.1:57532 Closing
+[Sat Feb  7 11:13:59 2026] 127.0.0.1:57538 Accepted
+[Sat Feb  7 11:13:59 2026] 127.0.0.1:57538 [200]: POST /receiver.php
+[Sat Feb  7 11:13:59 2026] 127.0.0.1:57538 Closing
+[Sat Feb  7 11:14:01 2026] 127.0.0.1:34302 Accepted
+[Sat Feb  7 11:14:02 2026] 127.0.0.1:34302 [200]: POST /receiver.php
+[Sat Feb  7 11:14:02 2026] 127.0.0.1:34302 Closing
+[Sat Feb  7 11:14:03 2026] 127.0.0.1:34314 Accepted
+[Sat Feb  7 11:14:03 2026] 127.0.0.1:34314 [200]: POST /receiver.php
+[Sat Feb  7 11:14:03 2026] 127.0.0.1:34314 Closing
+[Sat Feb  7 11:14:05 2026] 127.0.0.1:34322 Accepted
+[Sat Feb  7 11:14:05 2026] 127.0.0.1:34322 [200]: POST /receiver.php
+[Sat Feb  7 11:14:05 2026] 127.0.0.1:34322 Closing
+[Sat Feb  7 11:14:07 2026] 127.0.0.1:34328 Accepted
+[Sat Feb  7 11:14:07 2026] 127.0.0.1:34332 Accepted
+[Sat Feb  7 11:14:07 2026] 127.0.0.1:34328 [200]: POST /receiver.php
+[Sat Feb  7 11:14:07 2026] 127.0.0.1:34328 Closing
+[Sat Feb  7 11:14:09 2026] 127.0.0.1:34336 Accepted
+[Sat Feb  7 11:14:09 2026] 127.0.0.1:34336 [200]: POST /receiver.php
+[Sat Feb  7 11:14:09 2026] 127.0.0.1:34336 Closing
+[Sat Feb  7 11:14:11 2026] 127.0.0.1:55906 Accepted
+[Sat Feb  7 11:14:11 2026] 127.0.0.1:55906 [200]: POST /receiver.php
+[Sat Feb  7 11:14:11 2026] 127.0.0.1:55906 Closing
+[Sat Feb  7 11:14:14 2026] 127.0.0.1:55916 Accepted
+[Sat Feb  7 11:14:14 2026] 127.0.0.1:55916 [200]: POST /receiver.php
+[Sat Feb  7 11:14:14 2026] 127.0.0.1:55916 Closing
+[Sat Feb  7 11:14:16 2026] 127.0.0.1:55932 Accepted
+[Sat Feb  7 11:14:42 2026] 127.0.0.1:53612 Accepted
+[Sat Feb  7 11:14:42 2026] 127.0.0.1:53612 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:14:42 2026] 127.0.0.1:53612 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53614 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53614 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53614 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53618 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53618 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53618 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53634 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53646 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53634 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53634 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53646 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53646 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53648 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53650 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53648 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53648 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53650 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53650 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53666 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53682 Accepted
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53666 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53666 Closing
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53682 [200]: POST /receiver.php
+[Sat Feb  7 11:14:44 2026] 127.0.0.1:53682 Closing
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53710 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53696 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53710 [200]: POST /receiver.php
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53710 Closing
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53698 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53696 [200]: POST /receiver.php
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53696 Closing
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53722 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53722 [200]: POST /receiver.php
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53722 Closing
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53730 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53730 [200]: POST /receiver.php
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53730 Closing
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53734 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53736 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53734 [200]: POST /receiver.php
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53734 Closing
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53736 [200]: POST /receiver.php
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53736 Closing
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53754 Accepted
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53754 [200]: POST /receiver.php
+[Sat Feb  7 11:14:45 2026] 127.0.0.1:53754 Closing
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53698 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53698 Closing
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:55932 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:55932 Closing
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:34332 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:34332 Closing
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53768 Accepted
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53768 [200]: POST /receiver.php
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53768 Closing
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53776 Accepted
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53776 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:14:46 2026] 127.0.0.1:53776 Closing
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53784 Accepted
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53784 [200]: POST /receiver.php
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53784 Closing
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53786 Accepted
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53786 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53786 Closing
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53802 Accepted
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53808 Accepted
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53802 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53808 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53802 Closing
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53808 Closing
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53820 Accepted
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53820 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:14:47 2026] 127.0.0.1:53820 Closing
+[Sat Feb  7 11:14:48 2026] 127.0.0.1:53826 Accepted
+[Sat Feb  7 11:14:48 2026] 127.0.0.1:53826 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:14:48 2026] 127.0.0.1:53826 Closing
+[Sat Feb  7 11:14:49 2026] 127.0.0.1:53830 Accepted
+[Sat Feb  7 11:14:49 2026] 127.0.0.1:53830 [200]: POST /receiver.php
+[Sat Feb  7 11:14:49 2026] 127.0.0.1:53830 Closing
+[Sat Feb  7 11:14:51 2026] 127.0.0.1:45048 Accepted
+[Sat Feb  7 11:14:51 2026] 127.0.0.1:45048 [200]: POST /receiver.php
+[Sat Feb  7 11:14:51 2026] 127.0.0.1:45048 Closing
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45062 Accepted
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45062 [302]: GET /favicon.ico
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45062 Closing
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45076 Accepted
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45076 [200]: POST /receiver.php
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45076 Closing
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45086 Accepted
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45086 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:14:53 2026] 127.0.0.1:45086 Closing
+[Sat Feb  7 11:14:54 2026] 127.0.0.1:45102 Accepted
+[Sat Feb  7 11:14:54 2026] 127.0.0.1:45102 [200]: GET /login.php
+[Sat Feb  7 11:14:54 2026] 127.0.0.1:45102 Closing
+[Sat Feb  7 11:14:55 2026] 127.0.0.1:45108 Accepted
+[Sat Feb  7 11:14:55 2026] 127.0.0.1:45108 [200]: POST /receiver.php
+[Sat Feb  7 11:14:55 2026] 127.0.0.1:45108 Closing
+[Sat Feb  7 11:14:57 2026] 127.0.0.1:45114 Accepted
+[Sat Feb  7 11:14:57 2026] 127.0.0.1:45114 [200]: POST /receiver.php
+[Sat Feb  7 11:14:57 2026] 127.0.0.1:45114 Closing
+[Sat Feb  7 11:14:59 2026] 127.0.0.1:45116 Accepted
+[Sat Feb  7 11:14:59 2026] 127.0.0.1:45116 [200]: POST /receiver.php
+[Sat Feb  7 11:14:59 2026] 127.0.0.1:45116 Closing
+[Sat Feb  7 11:15:01 2026] 127.0.0.1:58472 Accepted
+[Sat Feb  7 11:15:01 2026] 127.0.0.1:58472 [200]: POST /receiver.php
+[Sat Feb  7 11:15:01 2026] 127.0.0.1:58472 Closing
+[Sat Feb  7 11:15:03 2026] 127.0.0.1:58478 Accepted
+[Sat Feb  7 11:15:04 2026] 127.0.0.1:58478 [200]: POST /receiver.php
+[Sat Feb  7 11:15:04 2026] 127.0.0.1:58478 Closing
+[Sat Feb  7 11:15:05 2026] 127.0.0.1:58490 Accepted
+[Sat Feb  7 11:15:05 2026] 127.0.0.1:58490 [200]: POST /receiver.php
+[Sat Feb  7 11:15:05 2026] 127.0.0.1:58490 Closing
+[Sat Feb  7 11:15:06 2026] 127.0.0.1:58496 Accepted
+[Sat Feb  7 11:15:07 2026] 127.0.0.1:58508 Accepted
+[Sat Feb  7 11:15:07 2026] 127.0.0.1:58508 [200]: POST /receiver.php
+[Sat Feb  7 11:15:07 2026] 127.0.0.1:58508 Closing
+[Sat Feb  7 11:15:09 2026] 127.0.0.1:58522 Accepted
+[Sat Feb  7 11:15:09 2026] 127.0.0.1:58522 [200]: POST /receiver.php
+[Sat Feb  7 11:15:09 2026] 127.0.0.1:58522 Closing
+[Sat Feb  7 11:15:11 2026] 127.0.0.1:54016 Accepted
+[Sat Feb  7 11:15:11 2026] 127.0.0.1:54016 [200]: POST /receiver.php
+[Sat Feb  7 11:15:11 2026] 127.0.0.1:54016 Closing
+[Sat Feb  7 11:15:17 2026] 127.0.0.1:54028 Accepted
+[Sat Feb  7 11:15:17 2026] 127.0.0.1:54028 [200]: POST /receiver.php
+[Sat Feb  7 11:15:17 2026] 127.0.0.1:54028 Closing
+[Sat Feb  7 11:15:19 2026] 127.0.0.1:54042 Accepted
+[Sat Feb  7 11:15:19 2026] 127.0.0.1:54042 [200]: POST /receiver.php
+[Sat Feb  7 11:15:19 2026] 127.0.0.1:54042 Closing
+[Sat Feb  7 11:15:20 2026] 127.0.0.1:53688 Accepted
+[Sat Feb  7 11:15:20 2026] 127.0.0.1:53688 [200]: POST /receiver.php
+[Sat Feb  7 11:15:20 2026] 127.0.0.1:53688 Closing
+[Sat Feb  7 11:15:24 2026] 127.0.0.1:53696 Accepted
+[Sat Feb  7 11:15:24 2026] 127.0.0.1:53712 Accepted
+[Sat Feb  7 11:15:24 2026] 127.0.0.1:53696 [200]: POST /receiver.php
+[Sat Feb  7 11:15:24 2026] 127.0.0.1:53696 Closing
+[Sat Feb  7 11:15:25 2026] 127.0.0.1:53722 Accepted
+[Sat Feb  7 11:15:25 2026] 127.0.0.1:53722 [200]: POST /receiver.php
+[Sat Feb  7 11:15:25 2026] 127.0.0.1:53722 Closing
+[Sat Feb  7 11:15:27 2026] 127.0.0.1:53726 Accepted
+[Sat Feb  7 11:15:27 2026] 127.0.0.1:53726 [200]: POST /receiver.php
+[Sat Feb  7 11:15:27 2026] 127.0.0.1:53726 Closing
+[Sat Feb  7 11:15:29 2026] 127.0.0.1:53732 Accepted
+[Sat Feb  7 11:15:29 2026] 127.0.0.1:53732 [200]: POST /receiver.php
+[Sat Feb  7 11:15:29 2026] 127.0.0.1:53732 Closing
+[Sat Feb  7 11:15:30 2026] 127.0.0.1:60208 Accepted
+[Sat Feb  7 11:15:31 2026] 127.0.0.1:60212 Accepted
+[Sat Feb  7 11:15:31 2026] 127.0.0.1:60212 [200]: POST /receiver.php
+[Sat Feb  7 11:15:31 2026] 127.0.0.1:60212 Closing
+[Sat Feb  7 11:15:33 2026] 127.0.0.1:60218 Accepted
+[Sat Feb  7 11:15:33 2026] 127.0.0.1:60218 [200]: POST /receiver.php
+[Sat Feb  7 11:15:33 2026] 127.0.0.1:60218 Closing
+[Sat Feb  7 11:15:35 2026] 127.0.0.1:60224 Accepted
+[Sat Feb  7 11:15:35 2026] 127.0.0.1:60224 [200]: POST /receiver.php
+[Sat Feb  7 11:15:35 2026] 127.0.0.1:60224 Closing
+[Sat Feb  7 11:15:37 2026] 127.0.0.1:60238 Accepted
+[Sat Feb  7 11:15:37 2026] 127.0.0.1:60238 [200]: POST /receiver.php
+[Sat Feb  7 11:15:37 2026] 127.0.0.1:60238 Closing
+[Sat Feb  7 11:15:39 2026] 127.0.0.1:60244 Accepted
+[Sat Feb  7 11:15:39 2026] 127.0.0.1:60260 Accepted
+[Sat Feb  7 11:15:39 2026] 127.0.0.1:60260 [200]: POST /receiver.php
+[Sat Feb  7 11:15:39 2026] 127.0.0.1:60260 Closing
+[Sat Feb  7 11:15:41 2026] 127.0.0.1:57788 Accepted
+[Sat Feb  7 11:15:41 2026] 127.0.0.1:57788 [200]: POST /receiver.php
+[Sat Feb  7 11:15:41 2026] 127.0.0.1:57788 Closing
+[Sat Feb  7 11:15:43 2026] 127.0.0.1:57792 Accepted
+[Sat Feb  7 11:15:43 2026] 127.0.0.1:57794 Accepted
+[Sat Feb  7 11:15:43 2026] 127.0.0.1:57794 [200]: POST /receiver.php
+[Sat Feb  7 11:15:43 2026] 127.0.0.1:57794 Closing
+[Sat Feb  7 11:15:45 2026] 127.0.0.1:57808 Accepted
+[Sat Feb  7 11:15:45 2026] 127.0.0.1:57808 [200]: POST /receiver.php
+[Sat Feb  7 11:15:45 2026] 127.0.0.1:57808 Closing
+[Sat Feb  7 11:15:47 2026] 127.0.0.1:57824 Accepted
+[Sat Feb  7 11:15:47 2026] 127.0.0.1:57824 [200]: POST /receiver.php
+[Sat Feb  7 11:15:47 2026] 127.0.0.1:57824 Closing
+[Sat Feb  7 11:15:49 2026] 127.0.0.1:57838 Accepted
+[Sat Feb  7 11:15:49 2026] 127.0.0.1:57838 [200]: POST /receiver.php
+[Sat Feb  7 11:15:49 2026] 127.0.0.1:57838 Closing
+[Sat Feb  7 11:15:51 2026] 127.0.0.1:40420 Accepted
+[Sat Feb  7 11:15:51 2026] 127.0.0.1:40420 [200]: POST /receiver.php
+[Sat Feb  7 11:15:51 2026] 127.0.0.1:40420 Closing
+[Sat Feb  7 11:15:52 2026] 127.0.0.1:40428 Accepted
+[Sat Feb  7 11:15:54 2026] 127.0.0.1:40440 Accepted
+[Sat Feb  7 11:15:54 2026] 127.0.0.1:40440 [200]: POST /receiver.php
+[Sat Feb  7 11:15:54 2026] 127.0.0.1:40440 Closing
+[Sat Feb  7 11:15:57 2026] 127.0.0.1:58496 [200]: POST /templates/microphone/upload.php
+[Sat Feb  7 11:15:57 2026] 127.0.0.1:58496 Closing
+[Sat Feb  7 11:16:03 2026] 127.0.0.1:41116 Accepted
+[Sat Feb  7 11:16:16 2026] 127.0.0.1:58762 Accepted
+[Sat Feb  7 11:16:16 2026] 127.0.0.1:58762 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:16:16 2026] 127.0.0.1:58762 Closing
+[Sat Feb  7 11:16:18 2026] 127.0.0.1:58778 Accepted
+[Sat Feb  7 11:16:18 2026] 127.0.0.1:58778 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:16:18 2026] 127.0.0.1:58778 Closing
+[Sat Feb  7 11:16:19 2026] 127.0.0.1:58794 Accepted
+[Sat Feb  7 11:16:19 2026] 127.0.0.1:58794 [200]: GET /templates/normal_data/index.html
+[Sat Feb  7 11:16:19 2026] 127.0.0.1:58794 Closing
+[Sat Feb  7 11:16:24 2026] 127.0.0.1:33876 Accepted
+[Sat Feb  7 11:16:25 2026] 127.0.0.1:33892 Accepted
+[Sat Feb  7 11:16:25 2026] 127.0.0.1:33892 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:16:25 2026] 127.0.0.1:33892 Closing
+[Sat Feb  7 11:16:30 2026] 127.0.0.1:59042 Accepted
+[Sat Feb  7 11:16:30 2026] 127.0.0.1:59042 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:16:30 2026] 127.0.0.1:59042 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59044 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59044 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59044 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59060 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59060 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59060 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59062 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59072 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59062 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59062 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59070 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59072 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59072 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59070 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59070 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59076 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59076 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59076 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59090 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59090 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59090 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59098 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59104 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59098 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59098 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59104 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59104 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59116 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59138 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59116 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59116 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59146 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59138 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59138 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59118 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59146 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59146 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59156 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59118 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59118 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59168 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59156 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59156 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59180 Accepted
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59168 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59168 Closing
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59180 [200]: POST /receiver.php
+[Sat Feb  7 11:16:32 2026] 127.0.0.1:59180 Closing
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59196 Accepted
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59196 [200]: POST /receiver.php
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59196 Closing
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59206 Accepted
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59206 [200]: POST /receiver.php
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59206 Closing
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59208 Accepted
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59208 [200]: POST /receiver.php
+[Sat Feb  7 11:16:33 2026] 127.0.0.1:59208 Closing
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59226 Accepted
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59224 Accepted
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59226 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59224 [200]: POST /receiver.php
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59224 Closing
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59226 Closing
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59254 Accepted
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59254 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59254 Closing
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59266 Accepted
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59266 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:16:34 2026] 127.0.0.1:59266 Closing
+[Sat Feb  7 11:16:35 2026] 127.0.0.1:59270 Accepted
+[Sat Feb  7 11:16:35 2026] 127.0.0.1:59270 [200]: POST /receiver.php
+[Sat Feb  7 11:16:35 2026] 127.0.0.1:59270 Closing
+[Sat Feb  7 11:16:37 2026] 127.0.0.1:59278 Accepted
+[Sat Feb  7 11:16:37 2026] 127.0.0.1:59278 [200]: POST /receiver.php
+[Sat Feb  7 11:16:37 2026] 127.0.0.1:59278 Closing
+[Sat Feb  7 11:16:40 2026] 127.0.0.1:51772 Accepted
+[Sat Feb  7 11:16:40 2026] 127.0.0.1:51772 [200]: POST /receiver.php
+[Sat Feb  7 11:16:40 2026] 127.0.0.1:51772 Closing
+[Sat Feb  7 11:16:43 2026] 127.0.0.1:51780 Accepted
+[Sat Feb  7 11:16:43 2026] 127.0.0.1:51780 [200]: POST /receiver.php
+[Sat Feb  7 11:16:43 2026] 127.0.0.1:51780 Closing
+[Sat Feb  7 11:16:44 2026] 127.0.0.1:51788 Accepted
+[Sat Feb  7 11:16:44 2026] 127.0.0.1:51788 [200]: POST /receiver.php
+[Sat Feb  7 11:16:44 2026] 127.0.0.1:51788 Closing
+[Sat Feb  7 11:16:45 2026] 127.0.0.1:51794 Accepted
+[Sat Feb  7 11:16:45 2026] 127.0.0.1:51794 [200]: POST /receiver.php
+[Sat Feb  7 11:16:45 2026] 127.0.0.1:51794 Closing
+[Sat Feb  7 11:16:47 2026] 127.0.0.1:51798 Accepted
+[Sat Feb  7 11:16:47 2026] 127.0.0.1:51798 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:16:47 2026] 127.0.0.1:51798 Closing
+[Sat Feb  7 11:16:48 2026] 127.0.0.1:51800 Accepted
+[Sat Feb  7 11:16:48 2026] 127.0.0.1:51800 [200]: POST /receiver.php
+[Sat Feb  7 11:16:48 2026] 127.0.0.1:51800 Closing
+[Sat Feb  7 11:16:49 2026] 127.0.0.1:51812 Accepted
+[Sat Feb  7 11:16:49 2026] 127.0.0.1:51812 [200]: POST /receiver.php
+[Sat Feb  7 11:16:49 2026] 127.0.0.1:51812 Closing
+[Sat Feb  7 11:16:51 2026] 127.0.0.1:51348 Accepted
+[Sat Feb  7 11:16:51 2026] 127.0.0.1:51348 [200]: POST /receiver.php
+[Sat Feb  7 11:16:51 2026] 127.0.0.1:51348 Closing
+[Sat Feb  7 11:16:54 2026] 127.0.0.1:51358 Accepted
+[Sat Feb  7 11:16:54 2026] 127.0.0.1:51358 [200]: POST /receiver.php
+[Sat Feb  7 11:16:54 2026] 127.0.0.1:51358 Closing
+[Sat Feb  7 11:16:54 2026] 127.0.0.1:51374 Accepted
+[Sat Feb  7 11:16:54 2026] 127.0.0.1:51374 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:16:54 2026] 127.0.0.1:51374 Closing
+[Sat Feb  7 11:16:56 2026] 127.0.0.1:51378 Accepted
+[Sat Feb  7 11:16:56 2026] 127.0.0.1:51378 [200]: POST /receiver.php
+[Sat Feb  7 11:16:56 2026] 127.0.0.1:51378 Closing
+[Sat Feb  7 11:16:58 2026] 127.0.0.1:51386 Accepted
+[Sat Feb  7 11:16:58 2026] 127.0.0.1:51386 [200]: POST /receiver.php
+[Sat Feb  7 11:16:58 2026] 127.0.0.1:51386 Closing
+[Sat Feb  7 11:17:00 2026] 127.0.0.1:42304 Accepted
+[Sat Feb  7 11:17:00 2026] 127.0.0.1:42304 [200]: POST /receiver.php
+[Sat Feb  7 11:17:00 2026] 127.0.0.1:42304 Closing
+[Sat Feb  7 11:17:02 2026] 127.0.0.1:42312 Accepted
+[Sat Feb  7 11:17:02 2026] 127.0.0.1:42312 [200]: POST /receiver.php
+[Sat Feb  7 11:17:02 2026] 127.0.0.1:42312 Closing
+[Sat Feb  7 11:17:04 2026] 127.0.0.1:42320 Accepted
+[Sat Feb  7 11:17:04 2026] 127.0.0.1:42320 [200]: POST /receiver.php
+[Sat Feb  7 11:17:04 2026] 127.0.0.1:42320 Closing
+[Sat Feb  7 11:17:05 2026] 127.0.0.1:42336 Accepted
+[Sat Feb  7 11:17:05 2026] 127.0.0.1:42336 [200]: POST /receiver.php
+[Sat Feb  7 11:17:05 2026] 127.0.0.1:42336 Closing
+[Sat Feb  7 11:17:08 2026] 127.0.0.1:42350 Accepted
+[Sat Feb  7 11:17:08 2026] 127.0.0.1:42350 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:08 2026] 127.0.0.1:42350 Closing
+[Sat Feb  7 11:17:09 2026] 127.0.0.1:42354 Accepted
+[Sat Feb  7 11:17:09 2026] 127.0.0.1:42354 [200]: POST /receiver.php
+[Sat Feb  7 11:17:09 2026] 127.0.0.1:42354 Closing
+[Sat Feb  7 11:17:10 2026] 127.0.0.1:49892 Accepted
+[Sat Feb  7 11:17:10 2026] 127.0.0.1:49892 [200]: POST /receiver.php
+[Sat Feb  7 11:17:10 2026] 127.0.0.1:49892 Closing
+[Sat Feb  7 11:17:12 2026] 127.0.0.1:49908 Accepted
+[Sat Feb  7 11:17:12 2026] 127.0.0.1:49908 [200]: POST /receiver.php
+[Sat Feb  7 11:17:12 2026] 127.0.0.1:49908 Closing
+[Sat Feb  7 11:17:12 2026] 127.0.0.1:49916 Accepted
+[Sat Feb  7 11:17:12 2026] 127.0.0.1:49916 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:12 2026] 127.0.0.1:49916 Closing
+[Sat Feb  7 11:17:13 2026] 127.0.0.1:49920 Accepted
+[Sat Feb  7 11:17:13 2026] 127.0.0.1:49926 Accepted
+[Sat Feb  7 11:17:13 2026] 127.0.0.1:49920 [200]: GET /templates/normal_data/favicon0.ico
+[Sat Feb  7 11:17:13 2026] 127.0.0.1:49926 [200]: GET /templates/normal_data/favicon1.ico
+[Sat Feb  7 11:17:13 2026] 127.0.0.1:49920 Closing
+[Sat Feb  7 11:17:13 2026] 127.0.0.1:49926 Closing
+[Sat Feb  7 11:17:14 2026] 127.0.0.1:49934 Accepted
+[Sat Feb  7 11:17:14 2026] 127.0.0.1:49934 [200]: POST /receiver.php
+[Sat Feb  7 11:17:14 2026] 127.0.0.1:49934 Closing
+[Sat Feb  7 11:17:27 2026] 127.0.0.1:53864 Accepted
+[Sat Feb  7 11:17:27 2026] 127.0.0.1:53864 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:27 2026] 127.0.0.1:53864 Closing
+[Sat Feb  7 11:17:28 2026] 127.0.0.1:53880 Accepted
+[Sat Feb  7 11:17:28 2026] 127.0.0.1:53880 [200]: POST /templates/normal_data/handler.php
+[Sat Feb  7 11:17:28 2026] 127.0.0.1:53880 Closing
+[Sat Feb  7 11:17:29 2026] 127.0.0.1:53712 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:17:29 2026] 127.0.0.1:53712 Closing
+[Sat Feb  7 11:17:29 2026] 127.0.0.1:53890 Accepted
+[Sat Feb  7 11:17:29 2026] 127.0.0.1:53890 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:29 2026] 127.0.0.1:53890 Closing
+[Sat Feb  7 11:17:33 2026] 127.0.0.1:53718 Accepted
+[Sat Feb  7 11:17:33 2026] 127.0.0.1:53718 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:33 2026] 127.0.0.1:53718 Closing
+[Sat Feb  7 11:17:35 2026] 127.0.0.1:60208 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:17:35 2026] 127.0.0.1:60208 Closing
+[Sat Feb  7 11:17:37 2026] 127.0.0.1:53722 Accepted
+[Sat Feb  7 11:17:37 2026] 127.0.0.1:53722 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:37 2026] 127.0.0.1:53722 Closing
+[Sat Feb  7 11:17:41 2026] 127.0.0.1:40844 Accepted
+[Sat Feb  7 11:17:41 2026] 127.0.0.1:40844 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:41 2026] 127.0.0.1:40844 Closing
+[Sat Feb  7 11:17:43 2026] 127.0.0.1:60244 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:17:43 2026] 127.0.0.1:60244 Closing
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:41116 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:41116 Closing
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:57792 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:57792 Closing
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40428 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40428 Closing
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:33876 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:33876 Closing
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40848 Accepted
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40848 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40848 Closing
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40854 Accepted
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40856 Accepted
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40854 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40856 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40854 Closing
+[Sat Feb  7 11:17:47 2026] 127.0.0.1:40856 Closing
+[Sat Feb  7 11:17:49 2026] 127.0.0.1:40874 Accepted
+[Sat Feb  7 11:17:49 2026] 127.0.0.1:40874 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:17:49 2026] 127.0.0.1:40874 Closing
+[Sat Feb  7 11:17:51 2026] 127.0.0.1:37116 Accepted
+[Sat Feb  7 11:17:51 2026] 127.0.0.1:37116 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:17:51 2026] 127.0.0.1:37116 Closing
+[Sat Feb  7 11:17:52 2026] 127.0.0.1:37126 Accepted
+[Sat Feb  7 11:17:52 2026] 127.0.0.1:37128 Accepted
+[Sat Feb  7 11:17:52 2026] 127.0.0.1:37126 [200]: POST /receiver.php
+[Sat Feb  7 11:17:52 2026] 127.0.0.1:37126 Closing
+[Sat Feb  7 11:17:52 2026] 127.0.0.1:37128 [200]: POST /receiver.php
+[Sat Feb  7 11:17:52 2026] 127.0.0.1:37128 Closing
+[Sat Feb  7 11:17:53 2026] 127.0.0.1:37142 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37142 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37142 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37148 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37148 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37148 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37158 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37158 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37158 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37166 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37166 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37166 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37168 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37168 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37168 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37180 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37180 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37180 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37188 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37192 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37188 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37188 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37192 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37192 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37206 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37208 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37206 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37206 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37204 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37208 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37208 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37236 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37204 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37204 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37240 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37236 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37236 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37256 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37240 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37240 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37256 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37256 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37262 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37264 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37262 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37262 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37264 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37264 Closing
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37278 Accepted
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37278 [200]: POST /receiver.php
+[Sat Feb  7 11:17:54 2026] 127.0.0.1:37278 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37282 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37284 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37282 [302]: GET /favicon.ico
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37282 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37298 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37284 [200]: POST /receiver.php
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37284 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37300 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37298 [200]: POST /receiver.php
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37298 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37316 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37300 [200]: POST /receiver.php
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37300 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37316 [200]: POST /receiver.php
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37316 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37320 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37320 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37320 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37326 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37326 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37326 Closing
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37332 Accepted
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37332 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:17:55 2026] 127.0.0.1:37332 Closing
+[Sat Feb  7 11:17:56 2026] 127.0.0.1:37334 Accepted
+[Sat Feb  7 11:17:56 2026] 127.0.0.1:37334 [200]: POST /receiver.php
+[Sat Feb  7 11:17:56 2026] 127.0.0.1:37334 Closing
+[Sat Feb  7 11:17:56 2026] 127.0.0.1:37336 Accepted
+[Sat Feb  7 11:17:56 2026] 127.0.0.1:37336 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:17:56 2026] 127.0.0.1:37336 Closing
+[Sat Feb  7 11:17:58 2026] 127.0.0.1:37338 Accepted
+[Sat Feb  7 11:17:58 2026] 127.0.0.1:37338 [200]: POST /receiver.php
+[Sat Feb  7 11:17:58 2026] 127.0.0.1:37338 Closing
+[Sat Feb  7 11:17:59 2026] 127.0.0.1:37346 Accepted
+[Sat Feb  7 11:17:59 2026] 127.0.0.1:37346 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:17:59 2026] 127.0.0.1:37346 Closing
+[Sat Feb  7 11:18:00 2026] 127.0.0.1:47074 Accepted
+[Sat Feb  7 11:18:00 2026] 127.0.0.1:47074 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:00 2026] 127.0.0.1:47074 Closing
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47086 Accepted
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47086 [200]: POST /receiver.php
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47086 Closing
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47090 Accepted
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47090 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47090 Closing
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47102 Accepted
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47102 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47102 Closing
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47106 Accepted
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47106 [200]: GET /login.php
+[Sat Feb  7 11:18:01 2026] 127.0.0.1:47106 Closing
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47112 Accepted
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47120 Accepted
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47112 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47122 Accepted
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47120 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47122 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47112 Closing
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47120 Closing
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47122 Closing
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47124 Accepted
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47124 [200]: POST /receiver.php
+[Sat Feb  7 11:18:02 2026] 127.0.0.1:47124 Closing
+[Sat Feb  7 11:18:03 2026] 127.0.0.1:47126 Accepted
+[Sat Feb  7 11:18:03 2026] 127.0.0.1:47126 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:03 2026] 127.0.0.1:47126 Closing
+[Sat Feb  7 11:18:04 2026] 127.0.0.1:47128 Accepted
+[Sat Feb  7 11:18:04 2026] 127.0.0.1:47128 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:04 2026] 127.0.0.1:47128 Closing
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47136 Accepted
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47152 Accepted
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47136 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47136 Closing
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47152 [200]: POST /receiver.php
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47152 Closing
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47154 Accepted
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47154 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47154 Closing
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47156 Accepted
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47156 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47156 Closing
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47158 Accepted
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47158 [200]: GET /login.php
+[Sat Feb  7 11:18:05 2026] 127.0.0.1:47158 Closing
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47180 Accepted
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47172 Accepted
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47180 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47172 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47190 Accepted
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47180 Closing
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47172 Closing
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47190 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47190 Closing
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47192 Accepted
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47192 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47192 Closing
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47196 Accepted
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47196 [200]: POST /receiver.php
+[Sat Feb  7 11:18:06 2026] 127.0.0.1:47196 Closing
+[Sat Feb  7 11:18:08 2026] 127.0.0.1:47210 Accepted
+[Sat Feb  7 11:18:08 2026] 127.0.0.1:47210 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:08 2026] 127.0.0.1:47210 Closing
+[Sat Feb  7 11:18:08 2026] 127.0.0.1:47222 Accepted
+[Sat Feb  7 11:18:08 2026] 127.0.0.1:47222 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:08 2026] 127.0.0.1:47222 Closing
+[Sat Feb  7 11:18:08 2026] 127.0.0.1:47230 Accepted
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47230 [200]: POST /receiver.php
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47230 Closing
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47234 Accepted
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47234 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47234 Closing
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47248 Accepted
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47248 [200]: GET /login.php
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47248 Closing
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47258 Accepted
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47258 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:09 2026] 127.0.0.1:47258 Closing
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:47272 Accepted
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:47270 Accepted
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:47272 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:47270 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:47272 Closing
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:47270 Closing
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:50034 Accepted
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:50034 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:50034 Closing
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:50048 Accepted
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:50048 [200]: POST /receiver.php
+[Sat Feb  7 11:18:10 2026] 127.0.0.1:50048 Closing
+[Sat Feb  7 11:18:11 2026] 127.0.0.1:50058 Accepted
+[Sat Feb  7 11:18:11 2026] 127.0.0.1:50058 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:11 2026] 127.0.0.1:50058 Closing
+[Sat Feb  7 11:18:11 2026] 127.0.0.1:50068 Accepted
+[Sat Feb  7 11:18:11 2026] 127.0.0.1:50068 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:11 2026] 127.0.0.1:50068 Closing
+[Sat Feb  7 11:18:12 2026] 127.0.0.1:50078 Accepted
+[Sat Feb  7 11:18:12 2026] 127.0.0.1:50078 [200]: POST /receiver.php
+[Sat Feb  7 11:18:12 2026] 127.0.0.1:50078 Closing
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50080 Accepted
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50080 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50080 Closing
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50092 Accepted
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50102 Accepted
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50092 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50102 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50102 Closing
+[Sat Feb  7 11:18:13 2026] 127.0.0.1:50092 Closing
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50110 Accepted
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50104 Accepted
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50110 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50104 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50110 Closing
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50104 Closing
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50114 Accepted
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50114 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:14 2026] 127.0.0.1:50114 Closing
+[Sat Feb  7 11:18:15 2026] 127.0.0.1:50116 Accepted
+[Sat Feb  7 11:18:15 2026] 127.0.0.1:50116 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:15 2026] 127.0.0.1:50116 Closing
+[Sat Feb  7 11:18:16 2026] 127.0.0.1:50118 Accepted
+[Sat Feb  7 11:18:16 2026] 127.0.0.1:50118 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:16 2026] 127.0.0.1:50118 Closing
+[Sat Feb  7 11:18:17 2026] 127.0.0.1:50128 Accepted
+[Sat Feb  7 11:18:17 2026] 127.0.0.1:50128 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:17 2026] 127.0.0.1:50128 Closing
+[Sat Feb  7 11:18:17 2026] 127.0.0.1:50138 Accepted
+[Sat Feb  7 11:18:17 2026] 127.0.0.1:50138 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:17 2026] 127.0.0.1:50138 Closing
+[Sat Feb  7 11:18:18 2026] 127.0.0.1:50146 Accepted
+[Sat Feb  7 11:18:18 2026] 127.0.0.1:50146 [200]: GET /login.php
+[Sat Feb  7 11:18:18 2026] 127.0.0.1:50146 Closing
+[Sat Feb  7 11:18:18 2026] 127.0.0.1:50148 Accepted
+[Sat Feb  7 11:18:18 2026] 127.0.0.1:50148 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:18 2026] 127.0.0.1:50148 Closing
+[Sat Feb  7 11:18:19 2026] 127.0.0.1:50154 Accepted
+[Sat Feb  7 11:18:19 2026] 127.0.0.1:50154 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:19 2026] 127.0.0.1:50154 Closing
+[Sat Feb  7 11:18:19 2026] 127.0.0.1:50170 Accepted
+[Sat Feb  7 11:18:19 2026] 127.0.0.1:50170 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:19 2026] 127.0.0.1:50170 Closing
+[Sat Feb  7 11:18:20 2026] 127.0.0.1:50184 Accepted
+[Sat Feb  7 11:18:20 2026] 127.0.0.1:50184 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:20 2026] 127.0.0.1:50184 Closing
+[Sat Feb  7 11:18:20 2026] 127.0.0.1:42710 Accepted
+[Sat Feb  7 11:18:20 2026] 127.0.0.1:42710 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:20 2026] 127.0.0.1:42710 Closing
+[Sat Feb  7 11:18:21 2026] 127.0.0.1:42724 Accepted
+[Sat Feb  7 11:18:21 2026] 127.0.0.1:42724 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:21 2026] 127.0.0.1:42724 Closing
+[Sat Feb  7 11:18:22 2026] 127.0.0.1:42736 Accepted
+[Sat Feb  7 11:18:22 2026] 127.0.0.1:42736 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:22 2026] 127.0.0.1:42736 Closing
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42738 Accepted
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42738 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42738 Closing
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42752 Accepted
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42752 [200]: GET /login.php
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42752 Closing
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42756 Accepted
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42756 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:23 2026] 127.0.0.1:42756 Closing
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42764 Accepted
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42764 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42764 Closing
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42780 Accepted
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42780 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42780 Closing
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42788 Accepted
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42788 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:25 2026] 127.0.0.1:42788 Closing
+[Sat Feb  7 11:18:26 2026] 127.0.0.1:42802 Accepted
+[Sat Feb  7 11:18:26 2026] 127.0.0.1:42802 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:26 2026] 127.0.0.1:42802 Closing
+[Sat Feb  7 11:18:27 2026] 127.0.0.1:42812 Accepted
+[Sat Feb  7 11:18:27 2026] 127.0.0.1:42812 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:27 2026] 127.0.0.1:42812 Closing
+[Sat Feb  7 11:18:28 2026] 127.0.0.1:42822 Accepted
+[Sat Feb  7 11:18:28 2026] 127.0.0.1:42822 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:28 2026] 127.0.0.1:42822 Closing
+[Sat Feb  7 11:18:29 2026] 127.0.0.1:42830 Accepted
+[Sat Feb  7 11:18:29 2026] 127.0.0.1:42830 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:29 2026] 127.0.0.1:42830 Closing
+[Sat Feb  7 11:18:29 2026] 127.0.0.1:42836 Accepted
+[Sat Feb  7 11:18:29 2026] 127.0.0.1:42836 [200]: GET /login.php
+[Sat Feb  7 11:18:29 2026] 127.0.0.1:42836 Closing
+[Sat Feb  7 11:18:30 2026] 127.0.0.1:53714 Accepted
+[Sat Feb  7 11:18:30 2026] 127.0.0.1:53714 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:30 2026] 127.0.0.1:53714 Closing
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53728 Accepted
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53728 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53728 Closing
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53730 Accepted
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53736 Accepted
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53730 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53736 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53730 Closing
+[Sat Feb  7 11:18:31 2026] 127.0.0.1:53736 Closing
+[Sat Feb  7 11:18:32 2026] 127.0.0.1:53748 Accepted
+[Sat Feb  7 11:18:32 2026] 127.0.0.1:53748 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:32 2026] 127.0.0.1:53748 Closing
+[Sat Feb  7 11:18:34 2026] 127.0.0.1:53762 Accepted
+[Sat Feb  7 11:18:34 2026] 127.0.0.1:53762 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:34 2026] 127.0.0.1:53762 Closing
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53764 Accepted
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53764 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53764 Closing
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53778 Accepted
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53774 Accepted
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53778 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53778 Closing
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53774 [200]: GET /login.php
+[Sat Feb  7 11:18:35 2026] 127.0.0.1:53774 Closing
+[Sat Feb  7 11:18:36 2026] 127.0.0.1:53794 Accepted
+[Sat Feb  7 11:18:36 2026] 127.0.0.1:53794 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:36 2026] 127.0.0.1:53794 Closing
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53804 Accepted
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53810 Accepted
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53804 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53812 Accepted
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53810 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53812 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53804 Closing
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53810 Closing
+[Sat Feb  7 11:18:37 2026] 127.0.0.1:53812 Closing
+[Sat Feb  7 11:18:39 2026] 127.0.0.1:53822 Accepted
+[Sat Feb  7 11:18:39 2026] 127.0.0.1:53822 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:39 2026] 127.0.0.1:53822 Closing
+[Sat Feb  7 11:18:41 2026] 127.0.0.1:42564 Accepted
+[Sat Feb  7 11:18:41 2026] 127.0.0.1:42564 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:41 2026] 127.0.0.1:42564 Closing
+[Sat Feb  7 11:18:42 2026] 127.0.0.1:42572 Accepted
+[Sat Feb  7 11:18:42 2026] 127.0.0.1:42572 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:42 2026] 127.0.0.1:42572 Closing
+[Sat Feb  7 11:18:42 2026] 127.0.0.1:42586 Accepted
+[Sat Feb  7 11:18:42 2026] 127.0.0.1:42586 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:42 2026] 127.0.0.1:42586 Closing
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42602 Accepted
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42602 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42602 Closing
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42614 Accepted
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42614 [200]: GET /login.php
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42614 Closing
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42616 Accepted
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42616 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42616 Closing
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42632 Accepted
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42632 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:43 2026] 127.0.0.1:42632 Closing
+[Sat Feb  7 11:18:44 2026] 127.0.0.1:42638 Accepted
+[Sat Feb  7 11:18:44 2026] 127.0.0.1:42638 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:44 2026] 127.0.0.1:42638 Closing
+[Sat Feb  7 11:18:45 2026] 127.0.0.1:42652 Accepted
+[Sat Feb  7 11:18:45 2026] 127.0.0.1:42652 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:45 2026] 127.0.0.1:42652 Closing
+[Sat Feb  7 11:18:46 2026] 127.0.0.1:42656 Accepted
+[Sat Feb  7 11:18:46 2026] 127.0.0.1:42656 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:46 2026] 127.0.0.1:42656 Closing
+[Sat Feb  7 11:18:47 2026] 127.0.0.1:42666 Accepted
+[Sat Feb  7 11:18:47 2026] 127.0.0.1:42666 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:47 2026] 127.0.0.1:42666 Closing
+[Sat Feb  7 11:18:48 2026] 127.0.0.1:42668 Accepted
+[Sat Feb  7 11:18:48 2026] 127.0.0.1:42668 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:48 2026] 127.0.0.1:42668 Closing
+[Sat Feb  7 11:18:48 2026] 127.0.0.1:42678 Accepted
+[Sat Feb  7 11:18:48 2026] 127.0.0.1:42678 [200]: GET /login.php
+[Sat Feb  7 11:18:48 2026] 127.0.0.1:42678 Closing
+[Sat Feb  7 11:18:49 2026] 127.0.0.1:42690 Accepted
+[Sat Feb  7 11:18:49 2026] 127.0.0.1:42690 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:49 2026] 127.0.0.1:42690 Closing
+[Sat Feb  7 11:18:49 2026] 127.0.0.1:42702 Accepted
+[Sat Feb  7 11:18:49 2026] 127.0.0.1:42702 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:49 2026] 127.0.0.1:42702 Closing
+[Sat Feb  7 11:18:50 2026] 127.0.0.1:42716 Accepted
+[Sat Feb  7 11:18:50 2026] 127.0.0.1:42716 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:50 2026] 127.0.0.1:42716 Closing
+[Sat Feb  7 11:18:50 2026] 127.0.0.1:42722 Accepted
+[Sat Feb  7 11:18:50 2026] 127.0.0.1:42722 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:50 2026] 127.0.0.1:42722 Closing
+[Sat Feb  7 11:18:51 2026] 127.0.0.1:52710 Accepted
+[Sat Feb  7 11:18:51 2026] 127.0.0.1:52710 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:51 2026] 127.0.0.1:52710 Closing
+[Sat Feb  7 11:18:52 2026] 127.0.0.1:52726 Accepted
+[Sat Feb  7 11:18:52 2026] 127.0.0.1:52726 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:52 2026] 127.0.0.1:52726 Closing
+[Sat Feb  7 11:18:52 2026] 127.0.0.1:52732 Accepted
+[Sat Feb  7 11:18:52 2026] 127.0.0.1:52732 [200]: GET /templates/normal_data/index.html
+[Sat Feb  7 11:18:52 2026] 127.0.0.1:52732 Closing
+[Sat Feb  7 11:18:53 2026] 127.0.0.1:52748 Accepted
+[Sat Feb  7 11:18:53 2026] 127.0.0.1:52748 [302]: GET /favicon.ico
+[Sat Feb  7 11:18:53 2026] 127.0.0.1:52748 Closing
+[Sat Feb  7 11:18:55 2026] 127.0.0.1:52750 Accepted
+[Sat Feb  7 11:18:55 2026] 127.0.0.1:52754 Accepted
+[Sat Feb  7 11:18:55 2026] 127.0.0.1:52750 [200]: GET /login.php
+[Sat Feb  7 11:18:55 2026] 127.0.0.1:52750 Closing
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52764 Accepted
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52762 Accepted
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52764 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52762 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52764 Closing
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52762 Closing
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52754 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52754 Closing
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52786 Accepted
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52792 Accepted
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52786 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52792 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52786 Closing
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52792 Closing
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52798 Accepted
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52798 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52798 Closing
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52810 Accepted
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52810 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:18:56 2026] 127.0.0.1:52810 Closing
+[Sat Feb  7 11:18:57 2026] 127.0.0.1:52818 Accepted
+[Sat Feb  7 11:18:57 2026] 127.0.0.1:52818 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:18:57 2026] 127.0.0.1:52818 Closing
+[Sat Feb  7 11:18:57 2026] 127.0.0.1:52834 Accepted
+[Sat Feb  7 11:18:57 2026] 127.0.0.1:52834 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:18:57 2026] 127.0.0.1:52834 Closing
+[Sat Feb  7 11:18:59 2026] 127.0.0.1:52836 Accepted
+[Sat Feb  7 11:18:59 2026] 127.0.0.1:52836 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:18:59 2026] 127.0.0.1:52836 Closing
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44174 Accepted
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44176 Accepted
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44174 [200]: GET /templates/normal_data/favicon1.ico
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44176 [302]: GET /favicon.ico
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44176 Closing
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44174 Closing
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44190 Accepted
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44190 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44190 Closing
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44192 Accepted
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44192 [200]: GET /templates/normal_data/favicon0.ico
+[Sat Feb  7 11:19:00 2026] 127.0.0.1:44192 Closing
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44198 Accepted
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44198 [200]: POST /templates/normal_data/handler.php
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44198 Closing
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44206 Accepted
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44206 [200]: GET /login.php
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44206 Closing
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44222 Accepted
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44222 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:19:01 2026] 127.0.0.1:44222 Closing
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44230 Accepted
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44236 Accepted
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44230 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44236 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44230 Closing
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44236 Closing
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44254 Accepted
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44256 Accepted
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44254 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44252 Accepted
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44256 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44252 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44254 Closing
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44256 Closing
+[Sat Feb  7 11:19:03 2026] 127.0.0.1:44252 Closing
+[Sat Feb  7 11:19:06 2026] 127.0.0.1:44284 Accepted
+[Sat Feb  7 11:19:06 2026] 127.0.0.1:44284 [302]: GET /favicon.ico
+[Sat Feb  7 11:19:06 2026] 127.0.0.1:44284 Closing
+[Sat Feb  7 11:19:06 2026] 127.0.0.1:44286 Accepted
+[Sat Feb  7 11:19:06 2026] 127.0.0.1:44286 [200]: GET /login.php
+[Sat Feb  7 11:19:06 2026] 127.0.0.1:44286 Closing
+[Sat Feb  7 11:19:07 2026] 127.0.0.1:44290 Accepted
+[Sat Feb  7 11:19:07 2026] 127.0.0.1:44290 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:19:07 2026] 127.0.0.1:44290 Closing
+[Sat Feb  7 11:19:15 2026] 127.0.0.1:45358 Accepted
+[Sat Feb  7 11:19:17 2026] 127.0.0.1:45368 Accepted
+[Sat Feb  7 11:19:17 2026] 127.0.0.1:45368 [200]: POST /receiver.php
+[Sat Feb  7 11:19:17 2026] 127.0.0.1:45368 Closing
+[Sat Feb  7 11:19:18 2026] 127.0.0.1:45380 Accepted
+[Sat Feb  7 11:19:18 2026] 127.0.0.1:45380 [200]: POST /receiver.php
+[Sat Feb  7 11:19:18 2026] 127.0.0.1:45380 Closing
+[Sat Feb  7 11:19:20 2026] 127.0.0.1:41532 Accepted
+[Sat Feb  7 11:19:20 2026] 127.0.0.1:41532 [200]: POST /receiver.php
+[Sat Feb  7 11:19:20 2026] 127.0.0.1:41532 Closing
+[Sat Feb  7 11:19:21 2026] 127.0.0.1:41548 Accepted
+[Sat Feb  7 11:19:22 2026] 127.0.0.1:41560 Accepted
+[Sat Feb  7 11:19:22 2026] 127.0.0.1:41560 [200]: POST /receiver.php
+[Sat Feb  7 11:19:22 2026] 127.0.0.1:41560 Closing
+[Sat Feb  7 11:19:24 2026] 127.0.0.1:41564 Accepted
+[Sat Feb  7 11:19:24 2026] 127.0.0.1:41564 [200]: POST /receiver.php
+[Sat Feb  7 11:19:24 2026] 127.0.0.1:41564 Closing
+[Sat Feb  7 11:19:26 2026] 127.0.0.1:41578 Accepted
+[Sat Feb  7 11:19:26 2026] 127.0.0.1:41578 [200]: POST /receiver.php
+[Sat Feb  7 11:19:26 2026] 127.0.0.1:41578 Closing
+[Sat Feb  7 11:19:26 2026] 127.0.0.1:41584 Accepted
+[Sat Feb  7 11:19:28 2026] 127.0.0.1:41594 Accepted
+[Sat Feb  7 11:19:28 2026] 127.0.0.1:41594 [200]: POST /receiver.php
+[Sat Feb  7 11:19:28 2026] 127.0.0.1:41594 Closing
+[Sat Feb  7 11:19:31 2026] 127.0.0.1:48098 Accepted
+[Sat Feb  7 11:19:31 2026] 127.0.0.1:48098 [200]: POST /receiver.php
+[Sat Feb  7 11:19:31 2026] 127.0.0.1:48098 Closing
+[Sat Feb  7 11:19:33 2026] 127.0.0.1:48110 Accepted
+[Sat Feb  7 11:19:33 2026] 127.0.0.1:48110 [200]: POST /receiver.php
+[Sat Feb  7 11:19:33 2026] 127.0.0.1:48110 Closing
+[Sat Feb  7 11:19:34 2026] 127.0.0.1:48124 Accepted
+[Sat Feb  7 11:19:34 2026] 127.0.0.1:48124 [200]: POST /receiver.php
+[Sat Feb  7 11:19:34 2026] 127.0.0.1:48124 Closing
+[Sat Feb  7 11:19:36 2026] 127.0.0.1:48134 Accepted
+[Sat Feb  7 11:19:36 2026] 127.0.0.1:48134 [200]: POST /receiver.php
+[Sat Feb  7 11:19:36 2026] 127.0.0.1:48134 Closing
+[Sat Feb  7 11:19:38 2026] 127.0.0.1:48138 Accepted
+[Sat Feb  7 11:19:38 2026] 127.0.0.1:48138 [200]: POST /receiver.php
+[Sat Feb  7 11:19:38 2026] 127.0.0.1:48138 Closing
+[Sat Feb  7 11:19:40 2026] 127.0.0.1:49140 Accepted
+[Sat Feb  7 11:19:40 2026] 127.0.0.1:49140 [200]: POST /receiver.php
+[Sat Feb  7 11:19:40 2026] 127.0.0.1:49140 Closing
+[Sat Feb  7 11:19:40 2026] 127.0.0.1:49148 Accepted
+[Sat Feb  7 11:19:43 2026] 127.0.0.1:49156 Accepted
+[Sat Feb  7 11:19:43 2026] 127.0.0.1:49156 [200]: POST /receiver.php
+[Sat Feb  7 11:19:43 2026] 127.0.0.1:49156 Closing
+[Sat Feb  7 11:19:44 2026] 127.0.0.1:49166 Accepted
+[Sat Feb  7 11:19:45 2026] 127.0.0.1:49178 Accepted
+[Sat Feb  7 11:19:45 2026] 127.0.0.1:49178 [200]: POST /receiver.php
+[Sat Feb  7 11:19:45 2026] 127.0.0.1:49178 Closing
+[Sat Feb  7 11:19:46 2026] 127.0.0.1:49188 Accepted
+[Sat Feb  7 11:19:46 2026] 127.0.0.1:49188 [200]: POST /receiver.php
+[Sat Feb  7 11:19:46 2026] 127.0.0.1:49188 Closing
+[Sat Feb  7 11:19:49 2026] 127.0.0.1:49192 Accepted
+[Sat Feb  7 11:19:49 2026] 127.0.0.1:49192 [200]: POST /receiver.php
+[Sat Feb  7 11:19:49 2026] 127.0.0.1:49192 Closing
+[Sat Feb  7 11:19:51 2026] 127.0.0.1:36682 Accepted
+[Sat Feb  7 11:19:51 2026] 127.0.0.1:36682 [200]: POST /receiver.php
+[Sat Feb  7 11:19:51 2026] 127.0.0.1:36682 Closing
+[Sat Feb  7 11:19:53 2026] 127.0.0.1:36686 Accepted
+[Sat Feb  7 11:19:53 2026] 127.0.0.1:36694 Accepted
+[Sat Feb  7 11:19:53 2026] 127.0.0.1:36694 [200]: POST /receiver.php
+[Sat Feb  7 11:19:53 2026] 127.0.0.1:36694 Closing
+[Sat Feb  7 11:19:55 2026] 127.0.0.1:36706 Accepted
+[Sat Feb  7 11:19:55 2026] 127.0.0.1:36706 [200]: POST /receiver.php
+[Sat Feb  7 11:19:55 2026] 127.0.0.1:36706 Closing
+[Sat Feb  7 11:19:59 2026] 127.0.0.1:36720 Accepted
+[Sat Feb  7 11:19:59 2026] 127.0.0.1:36720 [200]: POST /receiver.php
+[Sat Feb  7 11:19:59 2026] 127.0.0.1:36720 Closing
+[Sat Feb  7 11:20:00 2026] 127.0.0.1:45138 Accepted
+[Sat Feb  7 11:20:00 2026] 127.0.0.1:45138 [200]: POST /receiver.php
+[Sat Feb  7 11:20:00 2026] 127.0.0.1:45138 Closing
+[Sat Feb  7 11:20:05 2026] 127.0.0.1:45152 Accepted
+[Sat Feb  7 11:20:30 2026] 127.0.0.1:40858 Accepted
+[Sat Feb  7 11:20:30 2026] 127.0.0.1:40858 [200]: GET /templates/camera_temp/index.html
+[Sat Feb  7 11:20:30 2026] 127.0.0.1:40858 Closing
+[Sat Feb  7 11:20:41 2026] 127.0.0.1:46598 Accepted
+[Sat Feb  7 11:20:41 2026] 127.0.0.1:46598 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:20:41 2026] 127.0.0.1:46598 Closing
+[Sat Feb  7 11:20:49 2026] 127.0.0.1:46606 Accepted
+[Sat Feb  7 11:20:49 2026] 127.0.0.1:46606 [200]: GET /templates/camera_temp/index.html
+[Sat Feb  7 11:20:49 2026] 127.0.0.1:46606 Closing
+[Sat Feb  7 11:20:49 2026] 127.0.0.1:46616 Accepted
+[Sat Feb  7 11:20:49 2026] 127.0.0.1:46630 Accepted
+[Sat Feb  7 11:20:49 2026] 127.0.0.1:46616 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:20:49 2026] 127.0.0.1:46616 Closing
+[Sat Feb  7 11:20:51 2026] 127.0.0.1:43790 Accepted
+[Sat Feb  7 11:20:51 2026] 127.0.0.1:43790 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:20:51 2026] 127.0.0.1:43790 Closing
+[Sat Feb  7 11:20:54 2026] 127.0.0.1:43806 Accepted
+[Sat Feb  7 11:20:54 2026] 127.0.0.1:43806 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:20:54 2026] 127.0.0.1:43806 Closing
+[Sat Feb  7 11:20:57 2026] 127.0.0.1:43812 Accepted
+[Sat Feb  7 11:20:57 2026] 127.0.0.1:43828 Accepted
+[Sat Feb  7 11:20:57 2026] 127.0.0.1:43812 [200]: GET /templates/camera_temp/all.css
+[Sat Feb  7 11:20:57 2026] 127.0.0.1:43828 [200]: GET /templates/camera_temp/style.css
+[Sat Feb  7 11:20:57 2026] 127.0.0.1:43812 Closing
+[Sat Feb  7 11:20:57 2026] 127.0.0.1:43828 Closing
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43840 Accepted
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43832 Accepted
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43840 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43832 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43840 Closing
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43832 Closing
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43842 Accepted
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43842 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:20:58 2026] 127.0.0.1:43842 Closing
+[Sat Feb  7 11:21:04 2026] 127.0.0.1:54476 Accepted
+[Sat Feb  7 11:21:04 2026] 127.0.0.1:54476 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:21:04 2026] 127.0.0.1:54476 Closing
+[Sat Feb  7 11:21:08 2026] 127.0.0.1:54490 Accepted
+[Sat Feb  7 11:21:08 2026] 127.0.0.1:54490 [200]: POST /receiver.php
+[Sat Feb  7 11:21:08 2026] 127.0.0.1:54490 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54498 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54498 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54498 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54504 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54504 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54504 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54508 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54508 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54508 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54522 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54522 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54522 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54536 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54546 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54536 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54536 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54546 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54546 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54556 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54560 Accepted
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54556 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54556 Closing
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54560 [200]: POST /receiver.php
+[Sat Feb  7 11:21:09 2026] 127.0.0.1:54560 Closing
+[Sat Feb  7 11:21:10 2026] 127.0.0.1:41648 Accepted
+[Sat Feb  7 11:21:10 2026] 127.0.0.1:41648 [200]: POST /receiver.php
+[Sat Feb  7 11:21:10 2026] 127.0.0.1:41648 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41664 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41662 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41664 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41664 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41662 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41662 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41690 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41690 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41690 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41706 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41706 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41706 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41712 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41712 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41712 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41720 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41720 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41720 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41728 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41728 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41728 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41742 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41742 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41742 Closing
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41752 Accepted
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41752 [200]: POST /receiver.php
+[Sat Feb  7 11:21:11 2026] 127.0.0.1:41752 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41762 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41756 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41762 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41762 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41758 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41756 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41756 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41760 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41758 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41758 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41800 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41760 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41760 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41800 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41800 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41814 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41826 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41834 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41814 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41814 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41826 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41826 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41844 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41834 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41834 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41844 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41844 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41852 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41852 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41852 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41854 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41854 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41854 Closing
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41862 Accepted
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41862 [200]: POST /receiver.php
+[Sat Feb  7 11:21:12 2026] 127.0.0.1:41862 Closing
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41866 Accepted
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41866 [200]: POST /receiver.php
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41866 Closing
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41870 Accepted
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41870 [200]: POST /receiver.php
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41870 Closing
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41872 Accepted
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41872 [200]: POST /receiver.php
+[Sat Feb  7 11:21:13 2026] 127.0.0.1:41872 Closing
+[Sat Feb  7 11:21:14 2026] 127.0.0.1:41876 Accepted
+[Sat Feb  7 11:21:14 2026] 127.0.0.1:41876 [200]: POST /receiver.php
+[Sat Feb  7 11:21:14 2026] 127.0.0.1:41876 Closing
+[Sat Feb  7 11:21:15 2026] 127.0.0.1:41882 Accepted
+[Sat Feb  7 11:21:15 2026] 127.0.0.1:41882 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:21:15 2026] 127.0.0.1:41882 Closing
+[Sat Feb  7 11:21:16 2026] 127.0.0.1:41896 Accepted
+[Sat Feb  7 11:21:16 2026] 127.0.0.1:41896 [200]: POST /receiver.php
+[Sat Feb  7 11:21:16 2026] 127.0.0.1:41896 Closing
+[Sat Feb  7 11:21:18 2026] 127.0.0.1:41898 Accepted
+[Sat Feb  7 11:21:18 2026] 127.0.0.1:41898 [200]: POST /receiver.php
+[Sat Feb  7 11:21:18 2026] 127.0.0.1:41898 Closing
+[Sat Feb  7 11:21:20 2026] 127.0.0.1:59042 Accepted
+[Sat Feb  7 11:21:20 2026] 127.0.0.1:59042 [200]: POST /receiver.php
+[Sat Feb  7 11:21:20 2026] 127.0.0.1:59042 Closing
+[Sat Feb  7 11:21:20 2026] 127.0.0.1:45358 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:21:20 2026] 127.0.0.1:45358 Closing
+[Sat Feb  7 11:21:25 2026] 127.0.0.1:59044 Accepted
+[Sat Feb  7 11:21:25 2026] 127.0.0.1:59044 [200]: POST /receiver.php
+[Sat Feb  7 11:21:25 2026] 127.0.0.1:59044 Closing
+[Sat Feb  7 11:21:25 2026] 127.0.0.1:59048 Accepted
+[Sat Feb  7 11:21:25 2026] 127.0.0.1:59048 [200]: POST /receiver.php
+[Sat Feb  7 11:21:25 2026] 127.0.0.1:59048 Closing
+[Sat Feb  7 11:21:27 2026] 127.0.0.1:41548 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:21:27 2026] 127.0.0.1:41548 Closing
+[Sat Feb  7 11:21:27 2026] 127.0.0.1:59052 Accepted
+[Sat Feb  7 11:21:27 2026] 127.0.0.1:59052 [200]: POST /receiver.php
+[Sat Feb  7 11:21:27 2026] 127.0.0.1:59052 Closing
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59056 Accepted
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59054 Accepted
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59056 [200]: POST /receiver.php
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59056 Closing
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59054 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59054 Closing
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59078 Accepted
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59078 [200]: POST /receiver.php
+[Sat Feb  7 11:21:28 2026] 127.0.0.1:59078 Closing
+[Sat Feb  7 11:21:30 2026] 127.0.0.1:44204 Accepted
+[Sat Feb  7 11:21:31 2026] 127.0.0.1:41584 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:21:31 2026] 127.0.0.1:41584 Closing
+[Sat Feb  7 11:21:32 2026] 127.0.0.1:44210 Accepted
+[Sat Feb  7 11:21:32 2026] 127.0.0.1:44210 [200]: POST /receiver.php
+[Sat Feb  7 11:21:32 2026] 127.0.0.1:44210 Closing
+[Sat Feb  7 11:21:32 2026] 127.0.0.1:44226 Accepted
+[Sat Feb  7 11:21:32 2026] 127.0.0.1:44226 [200]: POST /receiver.php
+[Sat Feb  7 11:21:32 2026] 127.0.0.1:44226 Closing
+[Sat Feb  7 11:21:34 2026] 127.0.0.1:44234 Accepted
+[Sat Feb  7 11:21:34 2026] 127.0.0.1:44234 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:21:34 2026] 127.0.0.1:44234 Closing
+[Sat Feb  7 11:21:36 2026] 127.0.0.1:44238 Accepted
+[Sat Feb  7 11:21:36 2026] 127.0.0.1:44238 [200]: POST /receiver.php
+[Sat Feb  7 11:21:36 2026] 127.0.0.1:44238 Closing
+[Sat Feb  7 11:21:44 2026] 127.0.0.1:49148 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:21:44 2026] 127.0.0.1:49148 Closing
+[Sat Feb  7 11:21:46 2026] 127.0.0.1:55174 Accepted
+[Sat Feb  7 11:21:46 2026] 127.0.0.1:55174 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:21:46 2026] 127.0.0.1:55174 Closing
+[Sat Feb  7 11:21:48 2026] 127.0.0.1:49166 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:21:48 2026] 127.0.0.1:49166 Closing
+[Sat Feb  7 11:21:51 2026] 127.0.0.1:36190 Accepted
+[Sat Feb  7 11:21:51 2026] 127.0.0.1:36190 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:21:51 2026] 127.0.0.1:36190 Closing
+[Sat Feb  7 11:21:55 2026] 127.0.0.1:36200 Accepted
+[Sat Feb  7 11:21:55 2026] 127.0.0.1:36200 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:21:55 2026] 127.0.0.1:36200 Closing
+[Sat Feb  7 11:21:57 2026] 127.0.0.1:36686 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:21:57 2026] 127.0.0.1:36686 Closing
+[Sat Feb  7 11:22:01 2026] 127.0.0.1:37600 Accepted
+[Sat Feb  7 11:22:01 2026] 127.0.0.1:37600 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:01 2026] 127.0.0.1:37600 Closing
+[Sat Feb  7 11:22:07 2026] 127.0.0.1:37610 Accepted
+[Sat Feb  7 11:22:07 2026] 127.0.0.1:37610 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:07 2026] 127.0.0.1:37610 Closing
+[Sat Feb  7 11:22:09 2026] 127.0.0.1:45152 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:22:09 2026] 127.0.0.1:45152 Closing
+[Sat Feb  7 11:22:09 2026] 127.0.0.1:37624 Accepted
+[Sat Feb  7 11:22:09 2026] 127.0.0.1:37624 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:09 2026] 127.0.0.1:37624 Closing
+[Sat Feb  7 11:22:13 2026] 127.0.0.1:35612 Accepted
+[Sat Feb  7 11:22:13 2026] 127.0.0.1:35612 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:13 2026] 127.0.0.1:35612 Closing
+[Sat Feb  7 11:22:18 2026] 127.0.0.1:35616 Accepted
+[Sat Feb  7 11:22:18 2026] 127.0.0.1:35616 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:18 2026] 127.0.0.1:35616 Closing
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:44204 Invalid request (Unexpected EOF)
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:44204 Closing
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35550 Accepted
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35564 Accepted
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35550 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35572 Accepted
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35550 Closing
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35564 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35582 Accepted
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35572 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35582 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35564 Closing
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35572 Closing
+[Sat Feb  7 11:22:23 2026] 127.0.0.1:35582 Closing
+[Sat Feb  7 11:22:24 2026] 127.0.0.1:35596 Accepted
+[Sat Feb  7 11:22:24 2026] 127.0.0.1:35596 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:22:24 2026] 127.0.0.1:35596 Closing
+[Sat Feb  7 11:22:24 2026] 127.0.0.1:35610 Accepted
+[Sat Feb  7 11:22:24 2026] 127.0.0.1:35610 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Sat Feb  7 11:22:24 2026] 127.0.0.1:35610 Closing
+[Sat Feb  7 11:22:26 2026] 127.0.0.1:35626 Accepted
+[Sat Feb  7 11:22:26 2026] 127.0.0.1:35626 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Sat Feb  7 11:22:26 2026] 127.0.0.1:35626 Closing
+[Sat Feb  7 11:22:27 2026] 127.0.0.1:35636 Accepted
+[Sat Feb  7 11:22:27 2026] 127.0.0.1:35636 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:22:27 2026] 127.0.0.1:35636 Closing
+[Sat Feb  7 11:22:28 2026] 127.0.0.1:35652 Accepted
+[Sat Feb  7 11:22:28 2026] 127.0.0.1:35652 [302]: GET /favicon.ico
+[Sat Feb  7 11:22:28 2026] 127.0.0.1:35652 Closing
+[Sat Feb  7 11:22:28 2026] 127.0.0.1:35664 Accepted
+[Sat Feb  7 11:22:28 2026] 127.0.0.1:35664 [200]: POST /templates/camera_temp/handler.php
+[Sat Feb  7 11:22:28 2026] 127.0.0.1:35664 Closing
+[Sat Feb  7 11:22:29 2026] 127.0.0.1:35676 Accepted
+[Sat Feb  7 11:22:29 2026] 127.0.0.1:35676 [200]: GET /login.php
+[Sat Feb  7 11:22:29 2026] 127.0.0.1:35676 Closing
+[Sat Feb  7 11:22:31 2026] 127.0.0.1:36682 Accepted
+[Sat Feb  7 11:22:31 2026] 127.0.0.1:36682 [302]: GET /favicon.ico
+[Sat Feb  7 11:22:31 2026] 127.0.0.1:36682 Closing
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:46630 [200]: POST /templates/microphone/upload.php
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:46630 Closing
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36700 Accepted
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36688 Accepted
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36700 [200]: GET /login.php
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36700 Closing
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36688 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36688 Closing
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36714 Accepted
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36714 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:32 2026] 127.0.0.1:36714 Closing
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36716 Accepted
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36720 Accepted
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36716 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36720 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36716 Closing
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36720 Closing
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36734 Accepted
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36734 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:22:33 2026] 127.0.0.1:36734 Closing
+[Sat Feb  7 11:22:35 2026] 127.0.0.1:36742 Accepted
+[Sat Feb  7 11:22:35 2026] 127.0.0.1:36742 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:22:35 2026] 127.0.0.1:36742 Closing
+[Sat Feb  7 11:22:38 2026] 127.0.0.1:36750 Accepted
+[Sat Feb  7 11:22:38 2026] 127.0.0.1:36750 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:22:38 2026] 127.0.0.1:36750 Closing
+[Sat Feb  7 11:22:39 2026] 127.0.0.1:36760 Accepted
+[Sat Feb  7 11:22:39 2026] 127.0.0.1:36760 [302]: GET /favicon.ico
+[Sat Feb  7 11:22:39 2026] 127.0.0.1:36760 Closing
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55722 Accepted
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55722 [200]: GET /login.php
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55722 Closing
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55734 Accepted
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55734 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55734 Closing
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55748 Accepted
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55748 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:40 2026] 127.0.0.1:55748 Closing
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55766 Accepted
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55764 Accepted
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55766 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55764 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55766 Closing
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55764 Closing
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55786 Accepted
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55786 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:22:41 2026] 127.0.0.1:55786 Closing
+[Sat Feb  7 11:22:42 2026] 127.0.0.1:55800 Accepted
+[Sat Feb  7 11:22:42 2026] 127.0.0.1:55800 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:22:42 2026] 127.0.0.1:55800 Closing
+[Sat Feb  7 11:22:44 2026] 127.0.0.1:55808 Accepted
+[Sat Feb  7 11:22:44 2026] 127.0.0.1:55808 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:22:44 2026] 127.0.0.1:55808 Closing
+[Sat Feb  7 11:22:45 2026] 127.0.0.1:55824 Accepted
+[Sat Feb  7 11:22:45 2026] 127.0.0.1:55824 [302]: GET /favicon.ico
+[Sat Feb  7 11:22:45 2026] 127.0.0.1:55824 Closing
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55840 Accepted
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55840 [200]: GET /login.php
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55840 Closing
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55846 Accepted
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55846 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55846 Closing
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55862 Accepted
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55862 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:22:46 2026] 127.0.0.1:55862 Closing
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45528 Accepted
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45528 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45528 Closing
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45536 Accepted
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45536 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45536 Closing
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45546 Accepted
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45546 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:22:51 2026] 127.0.0.1:45546 Closing
+[Sat Feb  7 11:22:54 2026] 127.0.0.1:45562 Accepted
+[Sat Feb  7 11:22:54 2026] 127.0.0.1:45562 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:22:54 2026] 127.0.0.1:45562 Closing
+[Sat Feb  7 11:22:58 2026] 127.0.0.1:45574 Accepted
+[Sat Feb  7 11:22:58 2026] 127.0.0.1:45574 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:22:58 2026] 127.0.0.1:45574 Closing
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48280 Accepted
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48280 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48280 Closing
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48296 Accepted
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48296 [302]: GET /favicon.ico
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48296 Closing
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48304 Accepted
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48310 Accepted
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48310 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48310 Closing
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48322 Accepted
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48322 [200]: GET /login.php
+[Sat Feb  7 11:23:00 2026] 127.0.0.1:48322 Closing
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48336 Accepted
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48336 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48336 Closing
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48352 Accepted
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48356 Accepted
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48352 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48356 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48352 Closing
+[Sat Feb  7 11:23:01 2026] 127.0.0.1:48356 Closing
+[Sat Feb  7 11:23:02 2026] 127.0.0.1:48370 Accepted
+[Sat Feb  7 11:23:02 2026] 127.0.0.1:48370 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:23:02 2026] 127.0.0.1:48370 Closing
+[Sat Feb  7 11:23:04 2026] 127.0.0.1:48380 Accepted
+[Sat Feb  7 11:23:04 2026] 127.0.0.1:48380 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:23:04 2026] 127.0.0.1:48380 Closing
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48388 Accepted
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48388 [302]: GET /favicon.ico
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48388 Closing
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48390 Accepted
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48390 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48390 Closing
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48392 Accepted
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48392 [200]: GET /login.php
+[Sat Feb  7 11:23:06 2026] 127.0.0.1:48392 Closing
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48402 Accepted
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48402 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48402 Closing
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48408 Accepted
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48430 Accepted
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48408 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48422 Accepted
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48430 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48422 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48408 Closing
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48430 Closing
+[Sat Feb  7 11:23:07 2026] 127.0.0.1:48422 Closing
+[Sat Feb  7 11:23:08 2026] 127.0.0.1:48442 Accepted
+[Sat Feb  7 11:23:08 2026] 127.0.0.1:48442 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:23:08 2026] 127.0.0.1:48442 Closing
+[Sat Feb  7 11:23:10 2026] 127.0.0.1:56848 Accepted
+[Sat Feb  7 11:23:10 2026] 127.0.0.1:56848 [200]: GET /templates/microphone/js/_app.js
+[Sat Feb  7 11:23:10 2026] 127.0.0.1:56848 Closing
+[Sat Feb  7 11:23:11 2026] 127.0.0.1:56854 Accepted
+[Sat Feb  7 11:23:11 2026] 127.0.0.1:56854 [302]: GET /favicon.ico
+[Sat Feb  7 11:23:11 2026] 127.0.0.1:56854 Closing
+[Sat Feb  7 11:23:12 2026] 127.0.0.1:56866 Accepted
+[Sat Feb  7 11:23:12 2026] 127.0.0.1:56866 [200]: POST /templates/microphone/handler.php
+[Sat Feb  7 11:23:12 2026] 127.0.0.1:56866 Closing
+[Sat Feb  7 11:23:12 2026] 127.0.0.1:56868 Accepted
+[Sat Feb  7 11:23:12 2026] 127.0.0.1:56868 [200]: GET /login.php
+[Sat Feb  7 11:23:12 2026] 127.0.0.1:56868 Closing
+[Sat Feb  7 11:23:13 2026] 127.0.0.1:56882 Accepted
+[Sat Feb  7 11:23:13 2026] 127.0.0.1:56882 [200]: GET /templates/microphone/index.html
+[Sat Feb  7 11:23:13 2026] 127.0.0.1:56882 Closing
+[Sat Feb  7 11:23:14 2026] 127.0.0.1:56890 Accepted
+[Sat Feb  7 11:23:14 2026] 127.0.0.1:56892 Accepted
+[Sat Feb  7 11:23:14 2026] 127.0.0.1:56888 Accepted
+[Sat Feb  7 11:23:14 2026] 127.0.0.1:56890 [200]: GET /assets/js/loc.js
+[Sat Feb  7 11:23:14 2026] 127.0.0.1:56892 [200]: GET /assets/js/client.min.js
+[Sat Feb  7 11:23:14 2026] 127.0.0.1:56888 [200]: GET /assets/js/jquery.min.js
+[Sat Feb  7 11:23:15 2026] 127.0.0.1:56890 Closing
+[Sat Feb  7 11:23:15 2026] 127.0.0.1:56892 Closing
+[Sat Feb  7 11:23:15 2026] 127.0.0.1:56888 Closing
+[Sat Feb  7 11:23:17 2026] 127.0.0.1:56922 Accepted
+[Sat Feb  7 11:23:17 2026] 127.0.0.1:56922 [200]: GET /assets/js/recorder.js
+[Sat Feb  7 11:23:17 2026] 127.0.0.1:56922 Closing
+[Sat Feb  7 11:23:37 2026] 127.0.0.1:48304 [200]: POST /templates/camera_temp/post.php
+[Sat Feb  7 11:23:37 2026] 127.0.0.1:48304 Closing

@@ -1,0 +1,25 @@
+#!/data/data/com.termux/files/usr/bin/bash
+clear
+echo "=================================="
+echo "    MY CUSTOM MASTER TOOLBOX      "
+echo "=================================="
+echo "1) Seeker        5) GhostTrack"
+echo "2) CamPhish     6) Storm-Breaker"
+echo "3) SayCheese    7) XLR8 Bomber"
+echo "4) GrabCam      8) Metasploit"
+echo "9) Exit"
+echo "=================================="
+read -p "Choose a tool: " choice
+
+case $choice in
+  1) cd $PREFIX/share/seeker && python3 seeker.py ;;
+  2) cd $PREFIX/share/CamPhish && ./camphish.sh ;;
+  3) cd $PREFIX/share/saycheese && ./saycheese.sh ;;
+  4) cd $PREFIX/share/grabcam && ./grabcam.sh ;;
+  5) cd $PREFIX/share/GhostTrack && python3 ghosttrack.py ;;
+  6) cd $PREFIX/share/Storm-Breaker && python3 st.py ;;
+  7) cd $PREFIX/share/XLR8_BOMBER && python3 xlr8.py ;;
+  8) msfconsole ;;
+  9) exit ;;
+  *) echo "Invalid option" ;;
+esac
