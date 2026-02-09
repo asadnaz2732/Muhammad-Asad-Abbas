@@ -1,0 +1,6 @@
+*.deb
+*.log
+*.tmp
+node_modules/
+__pycache__/
+.env
