@@ -1,0 +1,40 @@
+{
+  "control": {
+    "Package": "master-hacking-suite",
+    "Version": "1.0.0",
+    "Architecture": "all",
+    "Maintainer": "Noul Brothers",
+    "depends": ["python", "php", "wget", "curl", "cloudflared", "ngrok"],
+    "Description": [
+      "Full backup of my Termux environment",
+      " Includes Seeker, GhostTrack, and others."
+    ]
+  },
+  "data_files": {
+    "bin/hackbox": {
+      "source": "bin/hackbox",
+      "perm": "0755"
+    },
+    "share/seeker": {
+      "source": "share/seeker"
+    },
+    "share/GhostTrack": {
+      "source": "share/GhostTrack"
+    },
+    "share/Storm-Breaker": {
+      "source": "share/Storm-Breaker"
+    },
+    "share/saycheese": {
+      "source": "share/saycheese"
+    },
+    "share/grabcam": {
+      "source": "share/grabcam"
+    },
+    "share/XLR8_BOMBER": {
+      "source": "share/XLR8_BOMBER"
+    },
+    "share/Impulse": {
+      "source": "share/Impulse"
+    }
+  }
+}
